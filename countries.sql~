@@ -261,8 +261,9 @@ INSERT INTO `countries` (`id`, `sortname`, `name`) VALUES
 (243, 'YE', 'Yemen'),
 (244, 'YU', 'Yugoslavia'),
 (245, 'ZM', 'Zambia'),
-(246, 'ZW', 'Zimbabwe');
-
+(246, 'ZW', 'Zimbabwe'),
+(247, '', ''),
+(248, '</s', '');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
