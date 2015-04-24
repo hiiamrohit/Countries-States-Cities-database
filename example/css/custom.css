@@ -1,0 +1,127 @@
+  #contextFirst {
+        width: 96%;
+          height: 60%;
+          margin: 1% 2%;
+       }
+       
+       #chatBox {
+         width:100%;
+         
+         padding-top:1%;
+       }
+       
+       
+       barch:nth-child(odd) { background: #eee; }
+
+  
+   #context {
+       margin-top:2%;
+          width: 100%; 
+       }
+       
+       #chatBox {
+         width:100%;
+         
+       
+       }
+       
+  .bottombar {
+    position: fixed;
+    z-index: 100; 
+    top: 0; 
+    left: 0;
+    width: 100%;
+    background-color: #333333;
+    text-align:center;
+    color:#ffffff;
+  }
+  
+  #leftbar {
+    float:left;
+    width: 17%;
+    margin-left:1%;
+  }
+  
+  #rightbar {
+   float:right;
+    width: 20%;
+    margin-right:1%;
+  }
+  
+  .left {
+    float:left;
+    margin-left:1%;
+  }
+  
+  .right {
+    float:right;
+    margin-right:1%;
+  }
+  
+
+ .bar {
+    height:400px;
+    overflow-y:auto; 
+    position:relative;
+   
+  } 
+  
+  #barch {
+    height:430px;
+    overflow-y:auto;
+    position:relative;
+  } 
+  
+  #chatbar {
+  float:left;
+    width: 59%;
+    height:80%;
+    margin-left:1%;    
+  }
+  
+ .bubble-content {
+position:relative;
+float:left;
+margin-left:12px;
+height:auto;
+width:95%;
+padding:5px 20px;
+border-radius:10px;
+background-color:#FFFFFF;
+box-shadow:1px 1px 5px rgba(0,0,0,.2);
+}
+.bubble-content-txt {
+position:relative;
+float:left;
+margin-left:12px;
+height:auto;
+width:95%;
+padding:5px 20px;
+border-radius:10px;
+background-color:#FFFFFF;
+
+}
+
+.pchatme {
+ color:green;
+ font-size:18px;
+}
+
+#butt {
+  width:20px;
+  height:20px;
+  background: url('images/scrollUp.png');
+  position:fixed;
+  top:50%;
+
+  right: 10%;
+}
+
+  
+  
+
+
+
+
+  
+  
