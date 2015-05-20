@@ -15,9 +15,9 @@ Copy and paste below script to add city state country list in your website
 <select name="city" class="cities" id="cityId">
 <option value="">Select City</option>
 </select>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="http://lab.iamrohit.in/js/location.js"></script>
 ```  
 
-I have written a php script to show you how it works, Follow this url:-
+ Display Country, State and City dropdown list using php and ajax follow link. 
  http://www.iamrohit.in/countries-states-and-cities-database-of-world-in-mysql/  
