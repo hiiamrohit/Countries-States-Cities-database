@@ -20,5 +20,7 @@ Copy and paste below script to add city state country list in your website
 ```  
 Demo Link: http://www.iamrohit.in/tag/php-ajax-country-state-city-dropdown
 
-Note: This databse dosen't guarantee for the complete list of worlds country, states and city.
+#Note: 
+This databse dosen't guarantee for the complete list of worlds country, states and city.
+
 You can manually change the spelling mistakes, or add edit any records, which are not corrent.
