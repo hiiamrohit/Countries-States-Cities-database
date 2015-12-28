@@ -1,7 +1,6 @@
 
-#Countries, States and Cities database of world in mysql
+#Database (MYSQL)
 
-Here you can find relational database of countries, states and cities in SQL format and easily import in your own database.
 
 Copy and paste below script to add city state country list in your website
 
@@ -18,7 +17,7 @@ Copy and paste below script to add city state country list in your website
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="http://lab.iamrohit.in/js/location.js"></script>
 ```  
-Demo Link: http://www.iamrohit.in/tag/php-ajax-country-state-city-dropdown
+Download full source code: http://www.iamrohit.in/tag/php-ajax-country-state-city-dropdown
 
 #Note: 
 *This Free database dose not guarantee for the complete list of world countries, states and cities.
