@@ -1,5 +1,5 @@
 
-#Database (MYSQL)
+#Database
 
 
 Copy and paste below script to add city state country list in your website
