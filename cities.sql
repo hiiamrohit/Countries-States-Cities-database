@@ -10,10 +10,14 @@ CREATE TABLE IF NOT EXISTS `cities` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `name` varchar(30) NOT NULL,
   `state_id` int(11) NOT NULL,
-  PRIMARY KEY (`id`)
+  PRIMARY KEY (`id`),
+  INDEX `fk_cities_1_idx` (`state_id` ASC),
+  CONSTRAINT `fk_cities_1`
+    FOREIGN KEY (`state_id`)
+    REFERENCES `states` (`id`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION
 ) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=47577 ;
-
-
 
 INSERT INTO `cities` (`id`, `name`, `state_id`) VALUES
 (1, 'Bombuflat', 1),
