@@ -48360,7 +48360,10 @@ INSERT INTO `cities` (`id`, `name`, `state_id`) VALUES
 # Added by Serdar Sanri
 # 8/4/2016
 # Remove "Estado de Sao Paulo". It is same as Sao Paulo
-Delete from `cities` where `id`=520;
+DELETE FROM `cities` WHERE `id`=520;
+
+# Delete old cities belongs to Brazil States
+DELETE FROM cities WHERE state_id>511 and state_id< 540;
 
 #Missing cities for Brazil. Ordered by Population.
 INSERT INTO `cities` (`id`, `name`, `state_id`) VALUES
