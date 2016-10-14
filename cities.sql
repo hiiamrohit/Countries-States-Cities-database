@@ -23530,7 +23530,6 @@ INSERT INTO `cities` (`id`, `name`, `state_id`) VALUES
 (23501, 'Polignano a Mare', 1872),
 (23502, 'Pulsano', 1872),
 (23503, 'Putignano', 1872),
-(23504, 'Putignano,', 1872),
 (23505, 'Racale', 1872),
 (23506, 'Ruffano', 1872),
 (23507, 'Rutigliano', 1872),
