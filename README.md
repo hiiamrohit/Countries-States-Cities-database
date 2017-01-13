@@ -1,22 +1,6 @@
 
 #Database
-
-
-Copy and paste below script to add city state country list in your website
-
-```html
-<select name="country" class="countries" id="countryId">
-<option value="">Select Country</option>
-</select>
-<select name="state" class="states" id="stateId">
-<option value="">Select State</option>
-</select>
-<select name="city" class="cities" id="cityId">
-<option value="">Select City</option>
-</select>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script src="http://lab.iamrohit.in/js/location.js"></script>
-```  
+City state country dropdown : http://lab.iamrohit.in/php_ajax_country_state_city_dropdown/ 
 Download full source code: http://www.iamrohit.in/tag/php-ajax-country-state-city-dropdown
 
 #Note: 
