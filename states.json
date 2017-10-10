@@ -17351,17 +17351,17 @@
         },
         {
             "id": "3471",
-            "name": "Changhwa",
+            "name": "Changhua County",
             "country_id": "214"
         },
         {
             "id": "3472",
-            "name": "Chiayi Hsien",
+            "name": "Chiayi County",
             "country_id": "214"
         },
         {
             "id": "3473",
-            "name": "Chiayi Shih",
+            "name": "Chiayi City",
             "country_id": "214"
         },
         {
@@ -17371,92 +17371,62 @@
         },
         {
             "id": "3475",
-            "name": "Hsinchu Hsien",
+            "name": "Hsinchu County",
             "country_id": "214"
         },
         {
             "id": "3476",
-            "name": "Hsinchu Shih",
+            "name": "Hsinchu City",
             "country_id": "214"
         },
         {
             "id": "3477",
-            "name": "Hualien",
-            "country_id": "214"
-        },
-        {
-            "id": "3478",
-            "name": "Ilan",
-            "country_id": "214"
-        },
-        {
-            "id": "3479",
-            "name": "Kaohsiung Hsien",
+            "name": "Hualien County",
             "country_id": "214"
         },
         {
             "id": "3480",
-            "name": "Kaohsiung Shih",
+            "name": "Kaohsiung City",
             "country_id": "214"
         },
         {
             "id": "3481",
-            "name": "Keelung Shih",
+            "name": "Keelung City",
             "country_id": "214"
         },
         {
             "id": "3482",
-            "name": "Kinmen",
+            "name": "Kinmen County",
             "country_id": "214"
         },
         {
             "id": "3483",
-            "name": "Miaoli",
+            "name": "Miaoli County",
             "country_id": "214"
         },
         {
             "id": "3484",
-            "name": "Nantou",
-            "country_id": "214"
-        },
-        {
-            "id": "3485",
-            "name": "Northern Taiwan",
+            "name": "Nantou County",
             "country_id": "214"
         },
         {
             "id": "3486",
-            "name": "Penghu",
+            "name": "Penghu County",
             "country_id": "214"
         },
         {
             "id": "3487",
-            "name": "Pingtung",
+            "name": "Pingtung County",
             "country_id": "214"
         },
         {
             "id": "3488",
-            "name": "Taichung",
-            "country_id": "214"
-        },
-        {
-            "id": "3489",
-            "name": "Taichung Hsien",
-            "country_id": "214"
-        },
-        {
-            "id": "3490",
-            "name": "Taichung Shih",
-            "country_id": "214"
-        },
-        {
-            "id": "3491",
-            "name": "Tainan Hsien",
+            "name": "Taichung City",
             "country_id": "214"
         },
         {
             "id": "3492",
-            "name": "Tainan Shih",
+            "name": "Tainan City",
             "country_id": "214"
         },
         {
@@ -17466,27 +17436,27 @@
         },
         {
             "id": "3495",
-            "name": "Taitung",
+            "name": "Taitung County",
             "country_id": "214"
         },
         {
             "id": "3496",
-            "name": "Taoyuan",
+            "name": "Taoyuan City",
             "country_id": "214"
         },
         {
             "id": "3497",
-            "name": "Yilan",
+            "name": "Yilan County",
             "country_id": "214"
         },
         {
             "id": "3498",
-            "name": "Yun-Lin Hsien",
+            "name": "YunLin County",
             "country_id": "214"
         },
         {
-            "id": "3499",
-            "name": "Yunlin",
+            "id": "4121",
+            "name": "Lienchiang County",
             "country_id": "214"
         },
         {
