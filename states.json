@@ -2597,7 +2597,7 @@
     },
     {
       "id": "520",
-      "name": "Estado de Sao Paulo",
+      "name": "Sao Paulo",
       "country_id": "30"
     },
     {
@@ -2678,11 +2678,6 @@
     {
       "id": "536",
       "name": "Santa Catarina",
-      "country_id": "30"
-    },
-    {
-      "id": "537",
-      "name": "Sao Paulo",
       "country_id": "30"
     },
     {
