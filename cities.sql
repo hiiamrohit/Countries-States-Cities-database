@@ -44720,8 +44720,8 @@ INSERT INTO `cities` (`id`, `name`, `state_id`) VALUES
 (44703, 'West Monroe', 3939),
 (44704, 'Westwego', 3939),
 (44705, 'Zachary', 3939),
-//TODO: Fix/delete if invalid(44706, 'Manchester', 3940),
-//TODO: Fix/delete if invalid(44707, 'Washington', 3940),
+/*TODO: Fix/delete if invalid(44706, 'Manchester', 3940),
+TODO: Fix/delete if invalid(44707, 'Washington', 3940),*/
 (44708, 'Auburn', 3941),
 (44709, 'Augusta', 3941),
 (44710, 'Bangor', 3941),
@@ -46206,7 +46206,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`) VALUES
 (46189, 'Yardley', 3963),
 (46190, 'Yeadon', 3963),
 (46191, 'York', 3963),
-//TODO: Fix/delete if invalid(46192, 'Ramey', 3964),
+/*TODO: Fix/delete if invalid(46192, 'Ramey', 3964),*/
 (46193, 'Adamsville', 3969),
 (46194, 'Alcoa', 3969),
 (46195, 'Antioch', 3969),
