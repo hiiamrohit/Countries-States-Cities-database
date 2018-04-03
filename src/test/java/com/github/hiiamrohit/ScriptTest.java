@@ -51,7 +51,7 @@ public class ScriptTest
             .start();
 
     conn = DriverManager.getConnection(
-            "jdbc:mysql://localhost:" + port + "/" + schema,
+            "jdbc:mysql://localhost:" + port + "/" + schema + "?useSSL=false",
             user, password);
   }
 
