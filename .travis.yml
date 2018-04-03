@@ -1,6 +1,4 @@
 language: java
+sudo: false # faster builds
 
-jdk:
- - openjdk6
-script:
- mvn install test
+script: mvn install test
