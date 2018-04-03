@@ -1639,7 +1639,6 @@ INSERT INTO `states` (`id`, `name`, `country_id`) VALUES
 (1620, 'Comayagua', 97),
 (1621, 'Copan', 97),
 (1622, 'Cortes', 97),
-(1623, 'Distrito Central', 97),
 (1624, 'El Paraiso', 97),
 (1625, 'Francisco Morazan', 97),
 (1626, 'Gracias a Dios', 97),
