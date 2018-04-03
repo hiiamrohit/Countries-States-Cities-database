@@ -13,8 +13,6 @@ import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-import javax.persistence.Persistence;
-
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -80,8 +78,6 @@ public class ScriptTest
   @Test
   public void testScripts() throws MalformedURLException
   {
-    //This will create the tables, etc.
-    Persistence.createEntityManagerFactory("Test");
     //Now try to impor the data
     List<SqlScriptSource> scripts = new ArrayList<>();
     scripts.add(Sources.fromURL(new File("countries.sql").toURI().toURL()));
