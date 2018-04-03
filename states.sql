@@ -3966,7 +3966,6 @@ INSERT INTO `states` (`id`, `name`, `country_id`) VALUES
 (3951, 'Nevada', 231),
 (3952, 'New Hampshire', 231),
 (3953, 'New Jersey', 231),
-(3954, 'New Jersey', 231),
 (3955, 'New Mexico', 231),
 (3956, 'New York', 231),
 (3957, 'North Carolina', 231),
