@@ -36,6 +36,7 @@ public class ScriptTest
   private final String user = "testUser";
   private final String password = "testPassword";
   private final String schema = "countries-states-cities-db-test";
+  private final int port = 3336;
   private static final Logger LOG
           = Logger.getLogger(ScriptTest.class.getName());
 
@@ -43,7 +44,7 @@ public class ScriptTest
   public void setupMySQL() throws SQLException
   {
     MysqldConfig config = aMysqldConfig(Version.v5_7_latest)
-            .withPort(3306)
+            .withPort(port)
             .withUser(user, password)
             .build();
 
@@ -52,7 +53,7 @@ public class ScriptTest
             .start();
 
     conn = DriverManager.getConnection(
-            "jdbc:mysql://localhost:3306/countries-states-cities-db-test",
+            "jdbc:mysql://localhost:" + port + "/" + schema,
             user, password);
   }
 
