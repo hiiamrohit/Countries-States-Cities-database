@@ -48996,7 +48996,8 @@ TODO: Fix/delete if invalid(44707, 'Washington', 3940),*/
 (48978, 'Santa Branca', 30),
 (48979, 'São José dos Campos', 30),
 (48980, 'Taubaté', 30),
-(48981, 'Tremembé', 30);
+(48981, 'Tremembé', 30),
+(48982, 'San Juan', 2919);
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
