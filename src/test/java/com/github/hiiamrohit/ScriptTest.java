@@ -4,8 +4,13 @@ import static com.wix.mysql.EmbeddedMysql.anEmbeddedMysql;
 import static com.wix.mysql.config.MysqldConfig.aMysqldConfig;
 import static org.junit.Assert.assertTrue;
 
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
 import java.net.MalformedURLException;
+import java.nio.file.Files;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
@@ -94,14 +99,17 @@ public class ScriptTest
     ResultSet rs = ps.executeQuery();
     boolean isEmpty = !rs.isBeforeFirst() && rs.getRow() == 0;
     int count = 0;
+    List<Integer> invalid = new ArrayList<>();
     while (rs.next())
     {
       System.err.println(rs.getInt(1) + ") " + rs.getString(2));
+      invalid.add(rs.getInt(1));
       count++;
     }
     if (count > 0)
     {
       System.err.println("There are " + count + " entries without children!");
+      writeCleanFile(new File("countries.sql"), new File("countries-clean.sql"), invalid);
     }
     assertTrue(isEmpty);
   }
@@ -115,14 +123,17 @@ public class ScriptTest
     ResultSet rs = ps.executeQuery();
     boolean isEmpty = !rs.isBeforeFirst() && rs.getRow() == 0;
     int count = 0;
+    List<Integer> invalid = new ArrayList<>();
     while (rs.next())
     {
       System.err.println(rs.getInt(1) + ") " + rs.getString(2) + " (" + rs.getString(3) + ")");
+      invalid.add(rs.getInt(1));
       count++;
     }
     if (count > 0)
     {
       System.err.println("There are " + count + " entries without children!");
+      writeCleanFile(new File("cities.sql"), new File("cities-clean.sql"), invalid);
     }
     assertTrue(isEmpty);
   }
@@ -139,5 +150,41 @@ public class ScriptTest
     scripts.add(Sources.fromURL(new File("states.sql").toURI().toURL()));
     scripts.add(Sources.fromURL(new File("cities.sql").toURI().toURL()));
     mysqld.executeScripts(schema, scripts);
+  }
+
+  private void writeCleanFile(File src, File dest, List<Integer> invalid)
+  {
+    try (BufferedWriter writer = Files.newBufferedWriter(dest.toPath()))
+    {
+      try (BufferedReader br = new BufferedReader(new FileReader(src)))
+      {
+        String line;
+        while ((line = br.readLine()) != null)
+        {
+          if (line.startsWith("("))
+          {
+            int id = Integer.valueOf(line.substring(1, line.indexOf(",")));
+            if (!invalid.contains(id))
+            {
+              writer.write(line);
+              writer.append('\n');
+            }
+          }
+          else
+          {
+            writer.write(line);
+            writer.append('\n');
+          }
+        }
+      }
+      catch (IOException ex)
+      {
+        LOG.log(Level.SEVERE, null, ex);
+      }
+    }
+    catch (IOException ex)
+    {
+      LOG.log(Level.SEVERE, null, ex);
+    }
   }
 }
