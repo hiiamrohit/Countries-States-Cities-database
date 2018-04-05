@@ -1,4 +1,3 @@
-
 # Database
 City state country dropdown : http://lab.iamrohit.in/php_ajax_country_state_city_dropdown/ 
 Download full source code: http://www.iamrohit.in/tag/php-ajax-country-state-city-dropdown
