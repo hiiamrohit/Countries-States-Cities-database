@@ -95,7 +95,8 @@ public class ScriptTest
   {
     importData();
     //Now query for empty Countries
-    PreparedStatement ps = conn.prepareStatement("select id,name from countries where id not in (select country_id from states)");
+    PreparedStatement ps = conn.prepareStatement("select id,name from countries "
+            + "where id not in (select country_id from states)");
     ResultSet rs = ps.executeQuery();
     boolean isEmpty = !rs.isBeforeFirst() && rs.getRow() == 0;
     int count = 0;
@@ -109,7 +110,8 @@ public class ScriptTest
     if (count > 0)
     {
       System.err.println("There are " + count + " entries without children!");
-      writeCleanFile(new File("countries.sql"), new File("countries-clean.sql"), invalid);
+      writeCleanFile(new File("countries.sql"), new File("countries-clean.sql"),
+              invalid);
     }
     assertTrue(isEmpty);
   }
@@ -119,21 +121,25 @@ public class ScriptTest
   {
     importData();
     //Now query for empty Countries
-    PreparedStatement ps = conn.prepareStatement("select s.id, s.name,(select name from countries where id=s.country_id) from states s where s.id not in (select state_id from cities)");
+    PreparedStatement ps = conn.prepareStatement("select s.id, s.name,(select "
+            + "name from countries where id=s.country_id) from states s where "
+            + "s.id not in (select state_id from cities)");
     ResultSet rs = ps.executeQuery();
     boolean isEmpty = !rs.isBeforeFirst() && rs.getRow() == 0;
     int count = 0;
     List<Integer> invalid = new ArrayList<>();
     while (rs.next())
     {
-      System.err.println(rs.getInt(1) + ") " + rs.getString(2) + " (" + rs.getString(3) + ")");
+      System.err.println(rs.getInt(1) + ") " + rs.getString(2) + " ("
+              + rs.getString(3) + ")");
       invalid.add(rs.getInt(1));
       count++;
     }
     if (count > 0)
     {
       System.err.println("There are " + count + " entries without children!");
-      writeCleanFile(new File("cities.sql"), new File("cities-clean.sql"), invalid);
+      writeCleanFile(new File("cities.sql"), new File("cities-clean.sql"),
+              invalid);
     }
     assertTrue(isEmpty);
   }
