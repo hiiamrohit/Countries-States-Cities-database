@@ -1,6 +1,4 @@
-TODO: Change the badge to point to master branch once merged.
-
-[![Build Status](https://travis-ci.org/javydreamercsw/Countries-States-Cities-database.svg?branch=javydreamercsw-fix-issue-32)](https://travis-ci.org/javydreamercsw/Countries-States-Cities-database)
+[![Build Status](https://travis-ci.org/javydreamercsw/Countries-States-Cities-database.svg?branch=master)](https://travis-ci.org/javydreamercsw/Countries-States-Cities-database)
 
 # Database
 City state country dropdown : http://lab.iamrohit.in/php_ajax_country_state_city_dropdown/ 
