@@ -34,7 +34,7 @@ INSERT INTO `states` (`id`, `name`, `country_id`) VALUES
 (15, 'Jammu and Kashmir', 101),
 (16, 'Jharkhand', 101),
 (17, 'Karnataka', 101),
-(18, 'Kenmore', 101),
+/*(18, 'Kenmore', 101),*/
 (19, 'Kerala', 101),
 (20, 'Lakshadweep', 101),
 (21, 'Madhya Pradesh', 101),
@@ -43,10 +43,10 @@ INSERT INTO `states` (`id`, `name`, `country_id`) VALUES
 (24, 'Meghalaya', 101),
 (25, 'Mizoram', 101),
 (26, 'Nagaland', 101),
-(27, 'Narora', 101),
-(28, 'Natwar', 101),
+/*(27, 'Narora', 101),
+(28, 'Natwar', 101),*/
 (29, 'Odisha', 101),
-(30, 'Paschim Medinipur', 101),
+/*(30, 'Paschim Medinipur', 101),*/
 (31, 'Pondicherry', 101),
 (32, 'Punjab', 101),
 (33, 'Rajasthan', 101),
@@ -56,7 +56,7 @@ INSERT INTO `states` (`id`, `name`, `country_id`) VALUES
 (37, 'Tripura', 101),
 (38, 'Uttar Pradesh', 101),
 (39, 'Uttarakhand', 101),
-(40, 'Vaishali', 101),
+/*(40, 'Vaishali', 101),*/
 (41, 'West Bengal', 101),
 (42, 'Badakhshan', 1),
 (43, 'Badgis', 1),
