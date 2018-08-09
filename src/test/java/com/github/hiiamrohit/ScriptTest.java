@@ -189,8 +189,7 @@ public class ScriptTest
       writeCleanFile(new File("cities.sql"), new File("cities-clean.sql"),
               invalid);
     }
-    //TODO: Uncomment when issues are fixed.
-    //assertTrue(isEmpty);
+    assertTrue(isEmpty);
   }
 
   /**
