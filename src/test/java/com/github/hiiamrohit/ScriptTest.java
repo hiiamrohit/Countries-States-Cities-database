@@ -2,7 +2,10 @@ package com.github.hiiamrohit;
 
 import static com.wix.mysql.EmbeddedMysql.anEmbeddedMysql;
 import static com.wix.mysql.config.MysqldConfig.aMysqldConfig;
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertTrue;
+import static org.junit.Assert.fail;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -17,9 +20,14 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
+import java.util.StringTokenizer;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 import org.junit.After;
 import org.junit.Before;
@@ -81,6 +89,46 @@ public class ScriptTest
     {
       LOG.log(Level.SEVERE, null, ex);
     }
+  }
+
+  /**
+   * Check the
+   */
+  @Test
+  public void testIntegrity()
+  {
+    Map<String, Map<String, List<Integer>>> results = new HashMap<>();
+    ArrayList<File> scripts = new ArrayList<>();
+    scripts.add(new File("countries.sql"));
+    scripts.add(new File("states.sql"));
+    scripts.add(new File("cities.sql"));
+    scripts.forEach(file ->
+    {
+      checkIntegrity(file, file.getName().equals("countries.sql"), results);
+    });
+
+    //Now check that al the keys are valid
+    List<Integer> countryKeys = results.get("countries.sql").get("keys");
+    assertFalse(countryKeys.isEmpty());
+    List<Integer> stateKeys = results.get("states.sql").get("keys");
+    assertFalse(stateKeys.isEmpty());
+
+    List<Integer> stateLinks = results.get("states.sql").get("links");
+    assertFalse(stateLinks.isEmpty());
+    List<Integer> cityLinks = results.get("cities.sql").get("links");
+    assertFalse(cityLinks.isEmpty());
+
+    //Make sure all state links exist
+    stateLinks.forEach(link ->
+    {
+      assertTrue(link + " not found in coutry!", countryKeys.contains(link));
+    });
+
+    //Make sure all city links exist
+    cityLinks.forEach(link ->
+    {
+      assertTrue(link + " not found in state!", stateKeys.contains(link));
+    });
   }
 
   @Test
@@ -192,6 +240,88 @@ public class ScriptTest
     catch (IOException ex)
     {
       LOG.log(Level.SEVERE, null, ex);
+    }
+  }
+
+  /**
+   * Scan the file for duplicate keys or references
+   *
+   * @param file File to check.
+   * @param onlyKeys Use true to ignore integer columns beyond the first one
+   * (key).
+   * @param results Map storing results in the following format:
+   *
+   * script file name ->keys, links
+   */
+  private void checkIntegrity(File file, boolean onlyKeys,
+          Map<String, Map<String, List<Integer>>> results)
+  {
+    //Read file
+    List<String> list = null;
+    try (Stream<String> lines = Files.lines(file.toPath()))
+    {
+      list = lines.collect(Collectors.toList());
+    }
+    catch (IOException e)
+    {
+      fail(e.getLocalizedMessage());
+    }
+    assertNotNull(list);
+    ArrayList<Integer> keys = new ArrayList<>();
+    ArrayList<Integer> relationships = new ArrayList<>();
+    int lineNumber = 0;
+    for (String line : list)
+    {
+      lineNumber++;
+      if (line.startsWith("("))
+      {
+        line = line.substring(1, line.lastIndexOf(")"));
+        StringTokenizer st = new StringTokenizer(line, ",");
+        int counter = 0;
+        while (st.hasMoreTokens())
+        {
+          try
+          {
+            String token = st.nextToken().trim();
+            if (counter == 0)
+            {
+              //This is the key
+
+              int key = Integer.valueOf(token);
+              if (keys.contains(key))
+              {
+                fail("Duplicated key: " + key + " on file " + file.getName()
+                        + ", line number: " + lineNumber);
+              }
+              else
+              {
+                keys.add(key);
+              }
+              if (onlyKeys)
+              {
+                //Don't check the rest
+                break;
+              }
+            }
+            else
+            {
+              int value = Integer.valueOf(token);
+              if (!st.hasMoreTokens())
+              {
+                relationships.add(value);
+              }
+            }
+          }
+          catch (NumberFormatException ne)
+          {
+            //Ignore.
+          }
+          counter++;
+        }
+      }
+      results.put(file.getName(), new HashMap<>());
+      results.get(file.getName()).put("keys", keys);
+      results.get(file.getName()).put("links", relationships);
     }
   }
 }
