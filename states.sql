@@ -3282,7 +3282,6 @@ INSERT INTO `states` (`id`, `name`, `country_id`) VALUES
 (3263, 'Balears', 205),
 (3264, 'Barcelona', 205),
 (3265, 'Bertamirans', 205),
-(3266, 'Biscay', 205),
 (3267, 'Burgos', 205),
 (3268, 'Caceres', 205),
 (3269, 'Cadiz', 205),
