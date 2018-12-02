@@ -29561,7 +29561,7 @@
     },
     {
       "id": "5913",
-      "name": "Qal''eh-ye Panjeh",
+      "name": "Qal'eh-ye Panjeh",
       "state_id": "42"
     },
     {
@@ -29571,7 +29571,7 @@
     },
     {
       "id": "5915",
-      "name": "Qal''eh-ye Naw",
+      "name": "Qal'eh-ye Naw",
       "state_id": "43"
     },
     {
@@ -29641,7 +29641,7 @@
     },
     {
       "id": "5929",
-      "name": "Qil Qal''eh",
+      "name": "Qil Qal'eh",
       "state_id": "46"
     },
     {
@@ -29706,7 +29706,7 @@
     },
     {
       "id": "5942",
-      "name": "Eslam Qal''eh",
+      "name": "Eslam Qal'eh",
       "state_id": "51"
     },
     {
@@ -30001,7 +30001,7 @@
     },
     {
       "id": "6001",
-      "name": "Qal''eh-ye Zal",
+      "name": "Qal'eh-ye Zal",
       "state_id": "67"
     },
     {
@@ -30051,7 +30051,7 @@
     },
     {
       "id": "6011",
-      "name": "Yangi Qal''eh",
+      "name": "Yangi Qal'eh",
       "state_id": "70"
     },
     {
@@ -30546,7 +30546,7 @@
     },
     {
       "id": "6110",
-      "name": "Ra''s-al-''Ayun",
+      "name": "Ra's-al-'Ayun",
       "state_id": "116"
     },
     {
@@ -30601,7 +30601,7 @@
     },
     {
       "id": "6121",
-      "name": "Sidi ''Aysh",
+      "name": "Sidi 'Aysh",
       "state_id": "117"
     },
     {
@@ -30656,7 +30656,7 @@
     },
     {
       "id": "6132",
-      "name": "Um''ash",
+      "name": "Um'ash",
       "state_id": "118"
     },
     {
@@ -30731,7 +30731,7 @@
     },
     {
       "id": "6147",
-      "name": "Shari''ah",
+      "name": "Shari'ah",
       "state_id": "119"
     },
     {
@@ -30756,12 +30756,12 @@
     },
     {
       "id": "6152",
-      "name": "al-''Afrun",
+      "name": "al-'Afrun",
       "state_id": "119"
     },
     {
       "id": "6153",
-      "name": "al-Arba''a",
+      "name": "al-Arba'a",
       "state_id": "119"
     },
     {
@@ -30776,7 +30776,7 @@
     },
     {
       "id": "6156",
-      "name": "Bi''r Ghabalu",
+      "name": "Bi'r Ghabalu",
       "state_id": "120"
     },
     {
@@ -30871,7 +30871,7 @@
     },
     {
       "id": "6175",
-      "name": "Sa''abat",
+      "name": "Sa'abat",
       "state_id": "121"
     },
     {
@@ -30881,7 +30881,7 @@
     },
     {
       "id": "6177",
-      "name": "al-Arba''a Tash",
+      "name": "al-Arba'a Tash",
       "state_id": "121"
     },
     {
@@ -30911,7 +30911,7 @@
     },
     {
       "id": "6183",
-      "name": "Sidi Muhammad Ban ''Ali",
+      "name": "Sidi Muhammad Ban 'Ali",
       "state_id": "123"
     },
     {
@@ -30951,7 +30951,7 @@
     },
     {
       "id": "6191",
-      "name": "al-Ghuli''ah",
+      "name": "al-Ghuli'ah",
       "state_id": "124"
     },
     {
@@ -30966,7 +30966,7 @@
     },
     {
       "id": "6194",
-      "name": "Amir ''Abd-al-Qadar",
+      "name": "Amir 'Abd-al-Qadar",
       "state_id": "126"
     },
     {
@@ -31021,7 +31021,7 @@
     },
     {
       "id": "6205",
-      "name": "Mis''ad",
+      "name": "Mis'ad",
       "state_id": "127"
     },
     {
@@ -31066,17 +31066,17 @@
     },
     {
       "id": "6214",
-      "name": "Bu Sa''adah",
+      "name": "Bu Sa'adah",
       "state_id": "129"
     },
     {
       "id": "6215",
-      "name": "Hammam Dhala''a",
+      "name": "Hammam Dhala'a",
       "state_id": "129"
     },
     {
       "id": "6216",
-      "name": "Ma''adid",
+      "name": "Ma'adid",
       "state_id": "129"
     },
     {
@@ -31091,7 +31091,7 @@
     },
     {
       "id": "6219",
-      "name": "Sidi ''Aysa",
+      "name": "Sidi 'Aysa",
       "state_id": "129"
     },
     {
@@ -31151,7 +31151,7 @@
     },
     {
       "id": "6231",
-      "name": "Salghum-al-''Ayd",
+      "name": "Salghum-al-'Ayd",
       "state_id": "131"
     },
     {
@@ -31276,7 +31276,7 @@
     },
     {
       "id": "6256",
-      "name": "Hamman Awlad ''Ali",
+      "name": "Hamman Awlad 'Ali",
       "state_id": "137"
     },
     {
@@ -31376,7 +31376,7 @@
     },
     {
       "id": "6276",
-      "name": "Ayn ''Azl",
+      "name": "Ayn 'Azl",
       "state_id": "140"
     },
     {
@@ -31406,7 +31406,7 @@
     },
     {
       "id": "6282",
-      "name": "Buq''ah",
+      "name": "Buq'ah",
       "state_id": "140"
     },
     {
@@ -31431,7 +31431,7 @@
     },
     {
       "id": "6287",
-      "name": "al-''Ulmah",
+      "name": "al-'Ulmah",
       "state_id": "140"
     },
     {
@@ -31466,12 +31466,12 @@
     },
     {
       "id": "6294",
-      "name": "Bu Isma''il",
+      "name": "Bu Isma'il",
       "state_id": "145"
     },
     {
       "id": "6295",
-      "name": "Bu Midfar''ah",
+      "name": "Bu Midfar'ah",
       "state_id": "145"
     },
     {
@@ -31531,12 +31531,12 @@
     },
     {
       "id": "6307",
-      "name": "al-Qull''ah",
+      "name": "al-Qull'ah",
       "state_id": "145"
     },
     {
       "id": "6308",
-      "name": "Bi''r-al-''Itir",
+      "name": "Bi'r-al-'Itir",
       "state_id": "146"
     },
     {
@@ -31566,7 +31566,7 @@
     },
     {
       "id": "6314",
-      "name": "al-''Awaynat",
+      "name": "al-'Awaynat",
       "state_id": "146"
     },
     {
@@ -31626,7 +31626,7 @@
     },
     {
       "id": "6326",
-      "name": "Sidi ''Abdallah",
+      "name": "Sidi 'Abdallah",
       "state_id": "147"
     },
     {
@@ -31671,7 +31671,7 @@
     },
     {
       "id": "6335",
-      "name": "Mashra''a Asfa",
+      "name": "Mashra'a Asfa",
       "state_id": "150"
     },
     {
@@ -31721,7 +31721,7 @@
     },
     {
       "id": "6345",
-      "name": "Bi''r Shuhada",
+      "name": "Bi'r Shuhada",
       "state_id": "152"
     },
     {
@@ -31756,7 +31756,7 @@
     },
     {
       "id": "6352",
-      "name": "Bi''r-al-Jir",
+      "name": "Bi'r-al-Jir",
       "state_id": "153"
     },
     {
@@ -31806,7 +31806,7 @@
     },
     {
       "id": "6362",
-      "name": "Hassi Mas''ud",
+      "name": "Hassi Mas'ud",
       "state_id": "154"
     },
     {
@@ -31916,7 +31916,7 @@
     },
     {
       "id": "6384",
-      "name": "al-Jaza''ir",
+      "name": "al-Jaza'ir",
       "state_id": "160"
     },
     {
@@ -31931,7 +31931,7 @@
     },
     {
       "id": "6387",
-      "name": "Hassan ''Abd-al-Karim",
+      "name": "Hassan 'Abd-al-Karim",
       "state_id": "161"
     },
     {
@@ -31941,7 +31941,7 @@
     },
     {
       "id": "6389",
-      "name": "Jama''a",
+      "name": "Jama'a",
       "state_id": "161"
     },
     {
@@ -32051,12 +32051,12 @@
     },
     {
       "id": "6411",
-      "name": "Saba''ita Muk",
+      "name": "Saba'ita Muk",
       "state_id": "163"
     },
     {
       "id": "6412",
-      "name": "al-Qal''ah",
+      "name": "al-Qal'ah",
       "state_id": "163"
     },
     {
@@ -32091,7 +32091,7 @@
     },
     {
       "id": "6419",
-      "name": "Atu''u",
+      "name": "Atu'u",
       "state_id": "164"
     },
     {
@@ -32101,17 +32101,17 @@
     },
     {
       "id": "6421",
-      "name": "Aunu''u",
+      "name": "Aunu'u",
       "state_id": "164"
     },
     {
       "id": "6422",
-      "name": "Faga''alu",
+      "name": "Faga'alu",
       "state_id": "164"
     },
     {
       "id": "6423",
-      "name": "Faga''itua",
+      "name": "Faga'itua",
       "state_id": "164"
     },
     {
@@ -32126,7 +32126,7 @@
     },
     {
       "id": "6426",
-      "name": "Lauli''i",
+      "name": "Lauli'i",
       "state_id": "164"
     },
     {
@@ -32136,7 +32136,7 @@
     },
     {
       "id": "6428",
-      "name": "Nu''uuli",
+      "name": "Nu'uuli",
       "state_id": "164"
     },
     {
@@ -32181,7 +32181,7 @@
     },
     {
       "id": "6437",
-      "name": "Ili''ili",
+      "name": "Ili'ili",
       "state_id": "167"
     },
     {
@@ -32216,7 +32216,7 @@
     },
     {
       "id": "6444",
-      "name": "Pava''ia''i",
+      "name": "Pava'ia'i",
       "state_id": "167"
     },
     {
@@ -32396,12 +32396,12 @@
     },
     {
       "id": "6480",
-      "name": "M''banza-Kongo",
+      "name": "M'banza-Kongo",
       "state_id": "192"
     },
     {
       "id": "6481",
-      "name": "N''zeto",
+      "name": "N'zeto",
       "state_id": "192"
     },
     {
@@ -36311,7 +36311,7 @@
     },
     {
       "id": "7263",
-      "name": "ar-Rifa''a",
+      "name": "ar-Rifa'a",
       "state_id": "336"
     },
     {
@@ -36841,7 +36841,7 @@
     },
     {
       "id": "7369",
-      "name": "Sa''idpur",
+      "name": "Sa'idpur",
       "state_id": "384"
     },
     {
@@ -37156,7 +37156,7 @@
     },
     {
       "id": "7432",
-      "name": "Jel''sk",
+      "name": "Jel'sk",
       "state_id": "414"
     },
     {
@@ -38046,7 +38046,7 @@
     },
     {
       "id": "7610",
-      "name": "Fontaine-l''Eveque",
+      "name": "Fontaine-l'Eveque",
       "state_id": "428"
     },
     {
@@ -38151,7 +38151,7 @@
     },
     {
       "id": "7631",
-      "name": "Mont-de-l''Enclus",
+      "name": "Mont-de-l'Enclus",
       "state_id": "428"
     },
     {
@@ -42841,7 +42841,7 @@
     },
     {
       "id": "8569",
-      "name": "Olho d''Agua das Flores",
+      "name": "Olho d'Agua das Flores",
       "state_id": "513"
     },
     {
@@ -43521,7 +43521,7 @@
     },
     {
       "id": "8705",
-      "name": "Dias d''Avila",
+      "name": "Dias d'Avila",
       "state_id": "516"
     },
     {
@@ -45526,7 +45526,7 @@
     },
     {
       "id": "9106",
-      "name": "Olho d''Agua das Cunhas",
+      "name": "Olho d'Agua das Cunhas",
       "state_id": "522"
     },
     {
@@ -48141,7 +48141,7 @@
     },
     {
       "id": "9629",
-      "name": "Alta Floresta d''Oeste",
+      "name": "Alta Floresta d'Oeste",
       "state_id": "534"
     },
     {
@@ -48156,7 +48156,7 @@
     },
     {
       "id": "9632",
-      "name": "Alvorada d''Oeste",
+      "name": "Alvorada d'Oeste",
       "state_id": "534"
     },
     {
@@ -48196,7 +48196,7 @@
     },
     {
       "id": "9640",
-      "name": "Espigao d''Oeste",
+      "name": "Espigao d'Oeste",
       "state_id": "534"
     },
     {
@@ -48221,7 +48221,7 @@
     },
     {
       "id": "9645",
-      "name": "Machadinho d''Oeste",
+      "name": "Machadinho d'Oeste",
       "state_id": "534"
     },
     {
@@ -48236,7 +48236,7 @@
     },
     {
       "id": "9648",
-      "name": "Nova Brasilandia d''Oeste",
+      "name": "Nova Brasilandia d'Oeste",
       "state_id": "534"
     },
     {
@@ -48276,7 +48276,7 @@
     },
     {
       "id": "9656",
-      "name": "Santa Luzia d''Oeste",
+      "name": "Santa Luzia d'Oeste",
       "state_id": "534"
     },
     {
@@ -48426,7 +48426,7 @@
     },
     {
       "id": "9686",
-      "name": "Itaporanga d''Ajuda",
+      "name": "Itaporanga d'Ajuda",
       "state_id": "538"
     },
     {
@@ -49766,7 +49766,7 @@
     },
     {
       "id": "9954",
-      "name": "Fada N''gourma",
+      "name": "Fada N'gourma",
       "state_id": "584"
     },
     {
@@ -51346,7 +51346,7 @@
     },
     {
       "id": "10270",
-      "name": "Barry''s Bay",
+      "name": "Barry's Bay",
       "state_id": "671"
     },
     {
@@ -51956,7 +51956,7 @@
     },
     {
       "id": "10392",
-      "name": "L''Original",
+      "name": "L'Original",
       "state_id": "671"
     },
     {
@@ -53141,17 +53141,17 @@
     },
     {
       "id": "10629",
-      "name": "L''Annonciation",
+      "name": "L'Annonciation",
       "state_id": "673"
     },
     {
       "id": "10630",
-      "name": "L''Ascension-de-Notre-Seigneur",
+      "name": "L'Ascension-de-Notre-Seigneur",
       "state_id": "673"
     },
     {
       "id": "10631",
-      "name": "L''Epiphanie",
+      "name": "L'Epiphanie",
       "state_id": "673"
     },
     {
@@ -53766,7 +53766,7 @@
     },
     {
       "id": "10754",
-      "name": "Saint-Roch-de-l''Achigan",
+      "name": "Saint-Roch-de-l'Achigan",
       "state_id": "673"
     },
     {
@@ -53941,7 +53941,7 @@
     },
     {
       "id": "10789",
-      "name": "Val-d''Or",
+      "name": "Val-d'Or",
       "state_id": "673"
     },
     {
@@ -54076,7 +54076,7 @@
     },
     {
       "id": "10816",
-      "name": "Fort Qu''Appelle",
+      "name": "Fort Qu'Appelle",
       "state_id": "674"
     },
     {
@@ -54626,7 +54626,7 @@
     },
     {
       "id": "10926",
-      "name": "N''Djamena",
+      "name": "N'Djamena",
       "state_id": "706"
     },
     {
@@ -54811,7 +54811,7 @@
     },
     {
       "id": "10963",
-      "name": "O''Higgins",
+      "name": "O'Higgins",
       "state_id": "717"
     },
     {
@@ -69456,7 +69456,7 @@
     },
     {
       "id": "13892",
-      "name": "M''bahiakro",
+      "name": "M'bahiakro",
       "state_id": "862"
     },
     {
@@ -69466,7 +69466,7 @@
     },
     {
       "id": "13894",
-      "name": "N''zi-Comoe",
+      "name": "N'zi-Comoe",
       "state_id": "862"
     },
     {
@@ -73241,7 +73241,7 @@
     },
     {
       "id": "14649",
-      "name": "Namesht'' nad Oslavou",
+      "name": "Namesht' nad Oslavou",
       "state_id": "918"
     },
     {
@@ -73951,7 +73951,7 @@
     },
     {
       "id": "14791",
-      "name": "Horazhd''ovice",
+      "name": "Horazhd'ovice",
       "state_id": "928"
     },
     {
@@ -74431,7 +74431,7 @@
     },
     {
       "id": "14887",
-      "name": "Zhd''ar",
+      "name": "Zhd'ar",
       "state_id": "939"
     },
     {
@@ -77141,7 +77141,7 @@
     },
     {
       "id": "15429",
-      "name": "Kafr Sa''d",
+      "name": "Kafr Sa'd",
       "state_id": "1049"
     },
     {
@@ -77171,7 +77171,7 @@
     },
     {
       "id": "15435",
-      "name": "Kafr-al-Jara''idah",
+      "name": "Kafr-al-Jara'idah",
       "state_id": "1050"
     },
     {
@@ -77236,7 +77236,7 @@
     },
     {
       "id": "15448",
-      "name": "ad-Da''ba",
+      "name": "ad-Da'ba",
       "state_id": "1051"
     },
     {
@@ -77246,7 +77246,7 @@
     },
     {
       "id": "15450",
-      "name": "Asfun-al-Mata''inah",
+      "name": "Asfun-al-Mata'inah",
       "state_id": "1057"
     },
     {
@@ -77286,12 +77286,12 @@
     },
     {
       "id": "15458",
-      "name": "Kiman-al-Mata''inah",
+      "name": "Kiman-al-Mata'inah",
       "state_id": "1057"
     },
     {
       "id": "15459",
-      "name": "Naj'' Hammadi",
+      "name": "Naj' Hammadi",
       "state_id": "1057"
     },
     {
@@ -77446,7 +77446,7 @@
     },
     {
       "id": "15490",
-      "name": "al-Ma''sarah",
+      "name": "al-Ma'sarah",
       "state_id": "1061"
     },
     {
@@ -77516,7 +77516,7 @@
     },
     {
       "id": "15504",
-      "name": "Hawsh ''Isa",
+      "name": "Hawsh 'Isa",
       "state_id": "1063"
     },
     {
@@ -77701,7 +77701,7 @@
     },
     {
       "id": "15541",
-      "name": "Fa''id",
+      "name": "Fa'id",
       "state_id": "1067"
     },
     {
@@ -77746,7 +77746,7 @@
     },
     {
       "id": "15550",
-      "name": "al-''Ayyat",
+      "name": "al-'Ayyat",
       "state_id": "1068"
     },
     {
@@ -77916,7 +77916,7 @@
     },
     {
       "id": "15584",
-      "name": "Abu Za''bal",
+      "name": "Abu Za'bal",
       "state_id": "1072"
     },
     {
@@ -78366,7 +78366,7 @@
     },
     {
       "id": "15674",
-      "name": "Ak''ordat",
+      "name": "Ak'ordat",
       "state_id": "1101"
     },
     {
@@ -78401,12 +78401,12 @@
     },
     {
       "id": "15681",
-      "name": "Addi K''eyih",
+      "name": "Addi K'eyih",
       "state_id": "1103"
     },
     {
       "id": "15682",
-      "name": "Dek''emhare",
+      "name": "Dek'emhare",
       "state_id": "1103"
     },
     {
@@ -78416,7 +78416,7 @@
     },
     {
       "id": "15684",
-      "name": "Sen''afe",
+      "name": "Sen'afe",
       "state_id": "1103"
     },
     {
@@ -83501,12 +83501,12 @@
     },
     {
       "id": "16701",
-      "name": "Addi Ark''ay",
+      "name": "Addi Ark'ay",
       "state_id": "1121"
     },
     {
       "id": "16702",
-      "name": "Addis ''Alem",
+      "name": "Addis 'Alem",
       "state_id": "1121"
     },
     {
@@ -83566,7 +83566,7 @@
     },
     {
       "id": "16714",
-      "name": "Debre Mark''os",
+      "name": "Debre Mark'os",
       "state_id": "1121"
     },
     {
@@ -83606,7 +83606,7 @@
     },
     {
       "id": "16722",
-      "name": "K''obo",
+      "name": "K'obo",
       "state_id": "1121"
     },
     {
@@ -83626,7 +83626,7 @@
     },
     {
       "id": "16726",
-      "name": "Mott''a",
+      "name": "Mott'a",
       "state_id": "1121"
     },
     {
@@ -83636,7 +83636,7 @@
     },
     {
       "id": "16728",
-      "name": "Sek''ot''a",
+      "name": "Sek'ot'a",
       "state_id": "1121"
     },
     {
@@ -83781,7 +83781,7 @@
     },
     {
       "id": "16757",
-      "name": "Ginch''i",
+      "name": "Ginch'i",
       "state_id": "1128"
     },
     {
@@ -83856,7 +83856,7 @@
     },
     {
       "id": "16772",
-      "name": "Mek''i",
+      "name": "Mek'i",
       "state_id": "1128"
     },
     {
@@ -83901,7 +83901,7 @@
     },
     {
       "id": "16781",
-      "name": "Nek''emte",
+      "name": "Nek'emte",
       "state_id": "1128"
     },
     {
@@ -83951,12 +83951,12 @@
     },
     {
       "id": "16791",
-      "name": "Welench''iti",
+      "name": "Welench'iti",
       "state_id": "1128"
     },
     {
       "id": "16792",
-      "name": "Welk''it''e",
+      "name": "Welk'it'e",
       "state_id": "1128"
     },
     {
@@ -84046,7 +84046,7 @@
     },
     {
       "id": "16810",
-      "name": "Ch''ench''a",
+      "name": "Ch'ench'a",
       "state_id": "1130"
     },
     {
@@ -84061,7 +84061,7 @@
     },
     {
       "id": "16813",
-      "name": "Hossa''ina",
+      "name": "Hossa'ina",
       "state_id": "1130"
     },
     {
@@ -84106,7 +84106,7 @@
     },
     {
       "id": "16822",
-      "name": "Yirga Ch''efe",
+      "name": "Yirga Ch'efe",
       "state_id": "1130"
     },
     {
@@ -84131,7 +84131,7 @@
     },
     {
       "id": "16827",
-      "name": "Alamat''a",
+      "name": "Alamat'a",
       "state_id": "1131"
     },
     {
@@ -84156,12 +84156,12 @@
     },
     {
       "id": "16832",
-      "name": "Maych''ew",
+      "name": "Maych'ew",
       "state_id": "1131"
     },
     {
       "id": "16833",
-      "name": "Mek''ele",
+      "name": "Mek'ele",
       "state_id": "1131"
     },
     {
@@ -84171,7 +84171,7 @@
     },
     {
       "id": "16835",
-      "name": "Wik''ro",
+      "name": "Wik'ro",
       "state_id": "1131"
     },
     {
@@ -85791,7 +85791,7 @@
     },
     {
       "id": "17159",
-      "name": "Berre-l''Etang",
+      "name": "Berre-l'Etang",
       "state_id": "1199"
     },
     {
@@ -86786,7 +86786,7 @@
     },
     {
       "id": "17358",
-      "name": "Villenave-d''Ornon",
+      "name": "Villenave-d'Ornon",
       "state_id": "1229"
     },
     {
@@ -86871,7 +86871,7 @@
     },
     {
       "id": "17375",
-      "name": "L''Union",
+      "name": "L'Union",
       "state_id": "1232"
     },
     {
@@ -87221,7 +87221,7 @@
     },
     {
       "id": "17445",
-      "name": "Ville-d''Avray",
+      "name": "Ville-d'Avray",
       "state_id": "1240"
     },
     {
@@ -87421,7 +87421,7 @@
     },
     {
       "id": "17485",
-      "name": "Saint-Martin-d''Heres",
+      "name": "Saint-Martin-d'Heres",
       "state_id": "1246"
     },
     {
@@ -87511,7 +87511,7 @@
     },
     {
       "id": "17503",
-      "name": "Cuxac-d''Aude",
+      "name": "Cuxac-d'Aude",
       "state_id": "1250"
     },
     {
@@ -87831,7 +87831,7 @@
     },
     {
       "id": "17567",
-      "name": "Saint-Barthelemy-d''Anjou",
+      "name": "Saint-Barthelemy-d'Anjou",
       "state_id": "1264"
     },
     {
@@ -88236,7 +88236,7 @@
     },
     {
       "id": "17648",
-      "name": "Bruay-sur-l''Escaut",
+      "name": "Bruay-sur-l'Escaut",
       "state_id": "1274"
     },
     {
@@ -88261,7 +88261,7 @@
     },
     {
       "id": "17653",
-      "name": "Conde-sur-l''Escaut",
+      "name": "Conde-sur-l'Escaut",
       "state_id": "1274"
     },
     {
@@ -88511,7 +88511,7 @@
     },
     {
       "id": "17703",
-      "name": "Villeneuve-d''Ascq",
+      "name": "Villeneuve-d'Ascq",
       "state_id": "1274"
     },
     {
@@ -88621,7 +88621,7 @@
     },
     {
       "id": "17725",
-      "name": "L''Aigle",
+      "name": "L'Aigle",
       "state_id": "1277"
     },
     {
@@ -88811,7 +88811,7 @@
     },
     {
       "id": "17763",
-      "name": "Noirmoutier-en-l''ÃƒÂŽle",
+      "name": "Noirmoutier-en-l'ÃƒÂŽle",
       "state_id": "1281"
     },
     {
@@ -88866,7 +88866,7 @@
     },
     {
       "id": "17774",
-      "name": "Cournon-d''Auvergne",
+      "name": "Cournon-d'Auvergne",
       "state_id": "1283"
     },
     {
@@ -89096,7 +89096,7 @@
     },
     {
       "id": "17820",
-      "name": "Chalain-d''Uzore",
+      "name": "Chalain-d'Uzore",
       "state_id": "1288"
     },
     {
@@ -89391,7 +89391,7 @@
     },
     {
       "id": "17879",
-      "name": "Gonfreville-l''Orcher",
+      "name": "Gonfreville-l'Orcher",
       "state_id": "1294"
     },
     {
@@ -89961,7 +89961,7 @@
     },
     {
       "id": "17993",
-      "name": "L''Isle-Adam",
+      "name": "L'Isle-Adam",
       "state_id": "1305"
     },
     {
@@ -90011,7 +90011,7 @@
     },
     {
       "id": "18003",
-      "name": "Saint-Ouen-l''Aumone",
+      "name": "Saint-Ouen-l'Aumone",
       "state_id": "1305"
     },
     {
@@ -90131,7 +90131,7 @@
     },
     {
       "id": "18027",
-      "name": "L''Hay-les-Roses",
+      "name": "L'Hay-les-Roses",
       "state_id": "1306"
     },
     {
@@ -90356,7 +90356,7 @@
     },
     {
       "id": "18072",
-      "name": "L''Isle-sur-la-Sorgue",
+      "name": "L'Isle-sur-la-Sorgue",
       "state_id": "1308"
     },
     {
@@ -90396,7 +90396,7 @@
     },
     {
       "id": "18080",
-      "name": "Chateau-d''Olonne",
+      "name": "Chateau-d'Olonne",
       "state_id": "1310"
     },
     {
@@ -90421,7 +90421,7 @@
     },
     {
       "id": "18085",
-      "name": "Les Sables-d''Olonne",
+      "name": "Les Sables-d'Olonne",
       "state_id": "1310"
     },
     {
@@ -90496,7 +90496,7 @@
     },
     {
       "id": "18100",
-      "name": "Bois-d''Arcy",
+      "name": "Bois-d'Arcy",
       "state_id": "1314"
     },
     {
@@ -90636,7 +90636,7 @@
     },
     {
       "id": "18128",
-      "name": "Saint-Cyr-l''Ecole",
+      "name": "Saint-Cyr-l'Ecole",
       "state_id": "1314"
     },
     {
@@ -103511,7 +103511,7 @@
     },
     {
       "id": "20703",
-      "name": "Morne-a-l''Eau",
+      "name": "Morne-a-l'Eau",
       "state_id": "1501"
     },
     {
@@ -103836,7 +103836,7 @@
     },
     {
       "id": "20768",
-      "name": "Saint Anne''s",
+      "name": "Saint Anne's",
       "state_id": "1545"
     },
     {
@@ -104201,7 +104201,7 @@
     },
     {
       "id": "20841",
-      "name": "L''Artibonite",
+      "name": "L'Artibonite",
       "state_id": "1607"
     },
     {
@@ -104211,7 +104211,7 @@
     },
     {
       "id": "20843",
-      "name": "Saint-Michel-de-l''Atalaye",
+      "name": "Saint-Michel-de-l'Atalaye",
       "state_id": "1607"
     },
     {
@@ -104236,7 +104236,7 @@
     },
     {
       "id": "20848",
-      "name": "Anse-d''Hainault",
+      "name": "Anse-d'Hainault",
       "state_id": "1609"
     },
     {
@@ -107911,7 +107911,7 @@
     },
     {
       "id": "21583",
-      "name": "Na''in",
+      "name": "Na'in",
       "state_id": "1705"
     },
     {
@@ -108026,7 +108026,7 @@
     },
     {
       "id": "21606",
-      "name": "Qa''emiyeh",
+      "name": "Qa'emiyeh",
       "state_id": "1706"
     },
     {
@@ -108091,12 +108091,12 @@
     },
     {
       "id": "21619",
-      "name": "Sawma''eh Sara",
+      "name": "Sawma'eh Sara",
       "state_id": "1707"
     },
     {
       "id": "21620",
-      "name": "Aq Qal''eh",
+      "name": "Aq Qal'eh",
       "state_id": "1708"
     },
     {
@@ -108156,7 +108156,7 @@
     },
     {
       "id": "21632",
-      "name": "Bandar-e ''Abbas",
+      "name": "Bandar-e 'Abbas",
       "state_id": "1710"
     },
     {
@@ -108361,7 +108361,7 @@
     },
     {
       "id": "21673",
-      "name": "Gha''nat",
+      "name": "Gha'nat",
       "state_id": "1714"
     },
     {
@@ -108731,7 +108731,7 @@
     },
     {
       "id": "21747",
-      "name": "Qa''emshahr",
+      "name": "Qa'emshahr",
       "state_id": "1720"
     },
     {
@@ -108976,7 +108976,7 @@
     },
     {
       "id": "21796",
-      "name": "Ba''qubah",
+      "name": "Ba'qubah",
       "state_id": "1733"
     },
     {
@@ -109061,7 +109061,7 @@
     },
     {
       "id": "21813",
-      "name": "al-''Amarah",
+      "name": "al-'Amarah",
       "state_id": "1738"
     },
     {
@@ -109081,7 +109081,7 @@
     },
     {
       "id": "21817",
-      "name": "Tall ''Afar",
+      "name": "Tall 'Afar",
       "state_id": "1739"
     },
     {
@@ -109111,7 +109111,7 @@
     },
     {
       "id": "21823",
-      "name": "Dhalu''iyah",
+      "name": "Dhalu'iyah",
       "state_id": "1740"
     },
     {
@@ -109136,7 +109136,7 @@
     },
     {
       "id": "21828",
-      "name": "al-''Aziziyah",
+      "name": "al-'Aziziyah",
       "state_id": "1741"
     },
     {
@@ -109151,7 +109151,7 @@
     },
     {
       "id": "21831",
-      "name": "an-Nu''maniyah",
+      "name": "an-Nu'maniyah",
       "state_id": "1741"
     },
     {
@@ -109211,7 +109211,7 @@
     },
     {
       "id": "21843",
-      "name": "Shatt-al-''Arab",
+      "name": "Shatt-al-'Arab",
       "state_id": "1743"
     },
     {
@@ -109311,7 +109311,7 @@
     },
     {
       "id": "21863",
-      "name": "Qal''at Dizeh",
+      "name": "Qal'at Dizeh",
       "state_id": "1747"
     },
     {
@@ -110146,7 +110146,7 @@
     },
     {
       "id": "22030",
-      "name": "Be''er Sheva",
+      "name": "Be'er Sheva",
       "state_id": "1786"
     },
     {
@@ -110196,7 +110196,7 @@
     },
     {
       "id": "22040",
-      "name": "Qiryat Mal''akhi",
+      "name": "Qiryat Mal'akhi",
       "state_id": "1786"
     },
     {
@@ -110216,7 +110216,7 @@
     },
     {
       "id": "22044",
-      "name": "Be''er Ya''aqov",
+      "name": "Be'er Ya'aqov",
       "state_id": "1788"
     },
     {
@@ -110321,7 +110321,7 @@
     },
     {
       "id": "22065",
-      "name": "Modi''in",
+      "name": "Modi'in",
       "state_id": "1788"
     },
     {
@@ -110366,12 +110366,12 @@
     },
     {
       "id": "22074",
-      "name": "Qiryat ''Eqron",
+      "name": "Qiryat 'Eqron",
       "state_id": "1788"
     },
     {
       "id": "22075",
-      "name": "Ra''anana",
+      "name": "Ra'anana",
       "state_id": "1788"
     },
     {
@@ -110471,7 +110471,7 @@
     },
     {
       "id": "22095",
-      "name": "Basmat Tab''un",
+      "name": "Basmat Tab'un",
       "state_id": "1789"
     },
     {
@@ -110481,12 +110481,12 @@
     },
     {
       "id": "22097",
-      "name": "Bet She''an",
+      "name": "Bet She'an",
       "state_id": "1789"
     },
     {
       "id": "22098",
-      "name": "Bi''ne",
+      "name": "Bi'ne",
       "state_id": "1789"
     },
     {
@@ -110496,7 +110496,7 @@
     },
     {
       "id": "22100",
-      "name": "Bu''eine-Nujeidat",
+      "name": "Bu'eine-Nujeidat",
       "state_id": "1789"
     },
     {
@@ -110521,7 +110521,7 @@
     },
     {
       "id": "22105",
-      "name": "I''billin",
+      "name": "I'billin",
       "state_id": "1789"
     },
     {
@@ -110566,7 +110566,7 @@
     },
     {
       "id": "22114",
-      "name": "Ma''alot Tarshikha",
+      "name": "Ma'alot Tarshikha",
       "state_id": "1789"
     },
     {
@@ -110576,7 +110576,7 @@
     },
     {
       "id": "22116",
-      "name": "Migdal Ha''Emeq",
+      "name": "Migdal Ha'Emeq",
       "state_id": "1789"
     },
     {
@@ -110601,7 +110601,7 @@
     },
     {
       "id": "22121",
-      "name": "Nazerat ''Illit",
+      "name": "Nazerat 'Illit",
       "state_id": "1789"
     },
     {
@@ -110611,7 +110611,7 @@
     },
     {
       "id": "22123",
-      "name": "Qiryat Tiv''on",
+      "name": "Qiryat Tiv'on",
       "state_id": "1789"
     },
     {
@@ -110631,7 +110631,7 @@
     },
     {
       "id": "22127",
-      "name": "Shefar''am",
+      "name": "Shefar'am",
       "state_id": "1789"
     },
     {
@@ -110646,7 +110646,7 @@
     },
     {
       "id": "22130",
-      "name": "Tur''an",
+      "name": "Tur'an",
       "state_id": "1789"
     },
     {
@@ -110656,7 +110656,7 @@
     },
     {
       "id": "22132",
-      "name": "Yoqne''am Illit",
+      "name": "Yoqne'am Illit",
       "state_id": "1789"
     },
     {
@@ -110686,7 +110686,7 @@
     },
     {
       "id": "22138",
-      "name": "Ar''ara",
+      "name": "Ar'ara",
       "state_id": "1793"
     },
     {
@@ -110731,7 +110731,7 @@
     },
     {
       "id": "22147",
-      "name": "Or ''Aqiva",
+      "name": "Or 'Aqiva",
       "state_id": "1793"
     },
     {
@@ -110776,7 +110776,7 @@
     },
     {
       "id": "22156",
-      "name": "Zikhron Ya''aqov",
+      "name": "Zikhron Ya'aqov",
       "state_id": "1793"
     },
     {
@@ -110856,7 +110856,7 @@
     },
     {
       "id": "22172",
-      "name": "Citta Sant''Angelo",
+      "name": "Citta Sant'Angelo",
       "state_id": "1803"
     },
     {
@@ -110876,7 +110876,7 @@
     },
     {
       "id": "22176",
-      "name": "L''Aquila",
+      "name": "L'Aquila",
       "state_id": "1803"
     },
     {
@@ -110901,7 +110901,7 @@
     },
     {
       "id": "22181",
-      "name": "Mosciano Sant''Angelo",
+      "name": "Mosciano Sant'Angelo",
       "state_id": "1803"
     },
     {
@@ -110941,7 +110941,7 @@
     },
     {
       "id": "22189",
-      "name": "Sant''Egidio alla Vibrata",
+      "name": "Sant'Egidio alla Vibrata",
       "state_id": "1803"
     },
     {
@@ -111226,7 +111226,7 @@
     },
     {
       "id": "22246",
-      "name": "Buttigliera d''Asti",
+      "name": "Buttigliera d'Asti",
       "state_id": "1809"
     },
     {
@@ -111321,7 +111321,7 @@
     },
     {
       "id": "22265",
-      "name": "D''alpago",
+      "name": "D'alpago",
       "state_id": "1813"
     },
     {
@@ -111366,7 +111366,7 @@
     },
     {
       "id": "22274",
-      "name": "Brignano Gera d''Adda",
+      "name": "Brignano Gera d'Adda",
       "state_id": "1815"
     },
     {
@@ -111506,7 +111506,7 @@
     },
     {
       "id": "22302",
-      "name": "Anzola dell''Emilia",
+      "name": "Anzola dell'Emilia",
       "state_id": "1817"
     },
     {
@@ -111971,7 +111971,7 @@
     },
     {
       "id": "22395",
-      "name": "Barano d''Ischia",
+      "name": "Barano d'Ischia",
       "state_id": "1822"
     },
     {
@@ -112101,7 +112101,7 @@
     },
     {
       "id": "22421",
-      "name": "Cava de'' Tirreni",
+      "name": "Cava de' Tirreni",
       "state_id": "1822"
     },
     {
@@ -112366,7 +112366,7 @@
     },
     {
       "id": "22474",
-      "name": "Pomigliano d''Arco",
+      "name": "Pomigliano d'Arco",
       "state_id": "1822"
     },
     {
@@ -112426,7 +112426,7 @@
     },
     {
       "id": "22486",
-      "name": "San Cipriano d''Aversa",
+      "name": "San Cipriano d'Aversa",
       "state_id": "1822"
     },
     {
@@ -112491,32 +112491,32 @@
     },
     {
       "id": "22499",
-      "name": "Sant''Agata de'' Goti",
+      "name": "Sant'Agata de' Goti",
       "state_id": "1822"
     },
     {
       "id": "22500",
-      "name": "Sant''Agnello",
+      "name": "Sant'Agnello",
       "state_id": "1822"
     },
     {
       "id": "22501",
-      "name": "Sant''Anastasia",
+      "name": "Sant'Anastasia",
       "state_id": "1822"
     },
     {
       "id": "22502",
-      "name": "Sant''Antonio Abate",
+      "name": "Sant'Antonio Abate",
       "state_id": "1822"
     },
     {
       "id": "22503",
-      "name": "Sant''Arpino",
+      "name": "Sant'Arpino",
       "state_id": "1822"
     },
     {
       "id": "22504",
-      "name": "Sant''Egidio del Monte Albino",
+      "name": "Sant'Egidio del Monte Albino",
       "state_id": "1822"
     },
     {
@@ -113341,7 +113341,7 @@
     },
     {
       "id": "22669",
-      "name": "Santa Vittoria d''Alba",
+      "name": "Santa Vittoria d'Alba",
       "state_id": "1830"
     },
     {
@@ -113451,7 +113451,7 @@
     },
     {
       "id": "22691",
-      "name": "Castelnovo ne'' Monti",
+      "name": "Castelnovo ne' Monti",
       "state_id": "1831"
     },
     {
@@ -113576,7 +113576,7 @@
     },
     {
       "id": "22716",
-      "name": "Fiorenzuola d''Arda",
+      "name": "Fiorenzuola d'Arda",
       "state_id": "1831"
     },
     {
@@ -113601,7 +113601,7 @@
     },
     {
       "id": "22721",
-      "name": "Granarolo dell''Emilia",
+      "name": "Granarolo dell'Emilia",
       "state_id": "1831"
     },
     {
@@ -113711,7 +113711,7 @@
     },
     {
       "id": "22743",
-      "name": "Ozzano dell''Emilia",
+      "name": "Ozzano dell'Emilia",
       "state_id": "1831"
     },
     {
@@ -113756,7 +113756,7 @@
     },
     {
       "id": "22752",
-      "name": "Reggio nell''Emilia",
+      "name": "Reggio nell'Emilia",
       "state_id": "1831"
     },
     {
@@ -113821,7 +113821,7 @@
     },
     {
       "id": "22765",
-      "name": "Sant''Ilario d''Enza",
+      "name": "Sant'Ilario d'Enza",
       "state_id": "1831"
     },
     {
@@ -113951,12 +113951,12 @@
     },
     {
       "id": "22791",
-      "name": "Romans d''Isonzo",
+      "name": "Romans d'Isonzo",
       "state_id": "1839"
     },
     {
       "id": "22792",
-      "name": "Savogna d''Isonzo",
+      "name": "Savogna d'Isonzo",
       "state_id": "1839"
     },
     {
@@ -114771,7 +114771,7 @@
     },
     {
       "id": "22955",
-      "name": "Calusco d''Adda",
+      "name": "Calusco d'Adda",
       "state_id": "1847"
     },
     {
@@ -114856,12 +114856,12 @@
     },
     {
       "id": "22972",
-      "name": "Cassano d''Adda",
+      "name": "Cassano d'Adda",
       "state_id": "1847"
     },
     {
       "id": "22973",
-      "name": "Cassina de'' Pecchi",
+      "name": "Cassina de' Pecchi",
       "state_id": "1847"
     },
     {
@@ -115016,7 +115016,7 @@
     },
     {
       "id": "23004",
-      "name": "Cornate d''Adda",
+      "name": "Cornate d'Adda",
       "state_id": "1847"
     },
     {
@@ -115461,7 +115461,7 @@
     },
     {
       "id": "23093",
-      "name": "Palazzolo sull''Oglio",
+      "name": "Palazzolo sull'Oglio",
       "state_id": "1847"
     },
     {
@@ -115596,7 +115596,7 @@
     },
     {
       "id": "23120",
-      "name": "Sant''Angelo Lodigiano",
+      "name": "Sant'Angelo Lodigiano",
       "state_id": "1847"
     },
     {
@@ -115896,7 +115896,7 @@
     },
     {
       "id": "23180",
-      "name": "Torre d''Isola",
+      "name": "Torre d'Isola",
       "state_id": "1848"
     },
     {
@@ -116146,7 +116146,7 @@
     },
     {
       "id": "23230",
-      "name": "Porto Sant''Elpidio",
+      "name": "Porto Sant'Elpidio",
       "state_id": "1851"
     },
     {
@@ -116171,7 +116171,7 @@
     },
     {
       "id": "23235",
-      "name": "Sant''Elpidio a Mare",
+      "name": "Sant'Elpidio a Mare",
       "state_id": "1851"
     },
     {
@@ -116311,7 +116311,7 @@
     },
     {
       "id": "23263",
-      "name": "Trezzo Sull''adda",
+      "name": "Trezzo Sull'adda",
       "state_id": "1853"
     },
     {
@@ -116321,7 +116321,7 @@
     },
     {
       "id": "23265",
-      "name": "Vaprio d''Adda",
+      "name": "Vaprio d'Adda",
       "state_id": "1853"
     },
     {
@@ -116406,7 +116406,7 @@
     },
     {
       "id": "23282",
-      "name": "Forio d''Ischia",
+      "name": "Forio d'Ischia",
       "state_id": "1859"
     },
     {
@@ -117431,7 +117431,7 @@
     },
     {
       "id": "23487",
-      "name": "Monte Sant''Angelo",
+      "name": "Monte Sant'Angelo",
       "state_id": "1872"
     },
     {
@@ -117851,7 +117851,7 @@
     },
     {
       "id": "23572",
-      "name": "Quartu Sant''Elena",
+      "name": "Quartu Sant'Elena",
       "state_id": "1877"
     },
     {
@@ -117871,7 +117871,7 @@
     },
     {
       "id": "23576",
-      "name": "Sant''Antioco",
+      "name": "Sant'Antioco",
       "state_id": "1877"
     },
     {
@@ -117951,7 +117951,7 @@
     },
     {
       "id": "23592",
-      "name": "Aci Sant''Antonio",
+      "name": "Aci Sant'Antonio",
       "state_id": "1880"
     },
     {
@@ -118071,7 +118071,7 @@
     },
     {
       "id": "23616",
-      "name": "Capo d''Orlando",
+      "name": "Capo d'Orlando",
       "state_id": "1880"
     },
     {
@@ -118301,7 +118301,7 @@
     },
     {
       "id": "23662",
-      "name": "Motta Sant''Anastasia",
+      "name": "Motta Sant'Anastasia",
       "state_id": "1880"
     },
     {
@@ -118486,12 +118486,12 @@
     },
     {
       "id": "23699",
-      "name": "Sant''Agata di Militello",
+      "name": "Sant'Agata di Militello",
       "state_id": "1880"
     },
     {
       "id": "23700",
-      "name": "Sant''Agata li Battiati",
+      "name": "Sant'Agata li Battiati",
       "state_id": "1880"
     },
     {
@@ -118901,7 +118901,7 @@
     },
     {
       "id": "23782",
-      "name": "Colle di Val d''Elsa",
+      "name": "Colle di Val d'Elsa",
       "state_id": "1887"
     },
     {
@@ -119076,7 +119076,7 @@
     },
     {
       "id": "23817",
-      "name": "Montopoli in Val d''Arno",
+      "name": "Montopoli in Val d'Arno",
       "state_id": "1887"
     },
     {
@@ -119211,7 +119211,7 @@
     },
     {
       "id": "23844",
-      "name": "Santa Croce sull''Arno",
+      "name": "Santa Croce sull'Arno",
       "state_id": "1887"
     },
     {
@@ -119651,7 +119651,7 @@
     },
     {
       "id": "23932",
-      "name": "Castel d''Azzano",
+      "name": "Castel d'Azzano",
       "state_id": "1896"
     },
     {
@@ -120106,7 +120106,7 @@
     },
     {
       "id": "24023",
-      "name": "Sant''Ambrogio",
+      "name": "Sant'Ambrogio",
       "state_id": "1896"
     },
     {
@@ -125861,7 +125861,7 @@
     },
     {
       "id": "25174",
-      "name": "Abu ''Alanda",
+      "name": "Abu 'Alanda",
       "state_id": "1978"
     },
     {
@@ -125881,7 +125881,7 @@
     },
     {
       "id": "25178",
-      "name": "Khalda wa Tila''-al-''Ali",
+      "name": "Khalda wa Tila'-al-'Ali",
       "state_id": "1978"
     },
     {
@@ -125896,7 +125896,7 @@
     },
     {
       "id": "25181",
-      "name": "Na''ur",
+      "name": "Na'ur",
       "state_id": "1978"
     },
     {
@@ -125951,7 +125951,7 @@
     },
     {
       "id": "25192",
-      "name": "al-''Abdaliyah",
+      "name": "al-'Abdaliyah",
       "state_id": "1978"
     },
     {
@@ -126006,7 +126006,7 @@
     },
     {
       "id": "25203",
-      "name": "Al''al",
+      "name": "Al'al",
       "state_id": "1979"
     },
     {
@@ -126046,7 +126046,7 @@
     },
     {
       "id": "25211",
-      "name": "Dayr Abi Sa''id",
+      "name": "Dayr Abi Sa'id",
       "state_id": "1979"
     },
     {
@@ -126056,7 +126056,7 @@
     },
     {
       "id": "25213",
-      "name": "Dayr as-Sa''anah",
+      "name": "Dayr as-Sa'anah",
       "state_id": "1979"
     },
     {
@@ -126111,7 +126111,7 @@
     },
     {
       "id": "25224",
-      "name": "Kufur ''Awan",
+      "name": "Kufur 'Awan",
       "state_id": "1979"
     },
     {
@@ -126241,7 +126241,7 @@
     },
     {
       "id": "25250",
-      "name": "al-Mashari''a",
+      "name": "al-Mashari'a",
       "state_id": "1979"
     },
     {
@@ -126256,7 +126256,7 @@
     },
     {
       "id": "25253",
-      "name": "an-Nu''aymeh",
+      "name": "an-Nu'aymeh",
       "state_id": "1979"
     },
     {
@@ -126351,7 +126351,7 @@
     },
     {
       "id": "25272",
-      "name": "Ma''an",
+      "name": "Ma'an",
       "state_id": "1981"
     },
     {
@@ -126381,7 +126381,7 @@
     },
     {
       "id": "25278",
-      "name": "Ma''in",
+      "name": "Ma'in",
       "state_id": "1982"
     },
     {
@@ -126401,7 +126401,7 @@
     },
     {
       "id": "25282",
-      "name": "al-''Aqabah",
+      "name": "al-'Aqabah",
       "state_id": "1983"
     },
     {
@@ -126426,7 +126426,7 @@
     },
     {
       "id": "25287",
-      "name": "Ma''addi",
+      "name": "Ma'addi",
       "state_id": "1984"
     },
     {
@@ -126451,7 +126451,7 @@
     },
     {
       "id": "25292",
-      "name": "al-Baq''ah",
+      "name": "al-Baq'ah",
       "state_id": "1984"
     },
     {
@@ -126511,7 +126511,7 @@
     },
     {
       "id": "25304",
-      "name": "Ghawr al-Mazra''ah",
+      "name": "Ghawr al-Mazra'ah",
       "state_id": "1985"
     },
     {
@@ -126521,7 +126521,7 @@
     },
     {
       "id": "25306",
-      "name": "Maw''tah",
+      "name": "Maw'tah",
       "state_id": "1985"
     },
     {
@@ -126576,7 +126576,7 @@
     },
     {
       "id": "25317",
-      "name": "Bal''ama",
+      "name": "Bal'ama",
       "state_id": "1986"
     },
     {
@@ -126631,7 +126631,7 @@
     },
     {
       "id": "25328",
-      "name": "az-Za''tari",
+      "name": "az-Za'tari",
       "state_id": "1986"
     },
     {
@@ -126641,7 +126641,7 @@
     },
     {
       "id": "25330",
-      "name": "al-''Ayn al-Bayda",
+      "name": "al-'Ayn al-Bayda",
       "state_id": "1987"
     },
     {
@@ -126666,7 +126666,7 @@
     },
     {
       "id": "25335",
-      "name": "Mushayrfat Ras al-''Ayn",
+      "name": "Mushayrfat Ras al-'Ayn",
       "state_id": "1988"
     },
     {
@@ -128831,7 +128831,7 @@
     },
     {
       "id": "25768",
-      "name": "Sha''''ab",
+      "name": "Sha''ab",
       "state_id": "2083"
     },
     {
@@ -128891,7 +128891,7 @@
     },
     {
       "id": "25780",
-      "name": "A''qaylah",
+      "name": "A'qaylah",
       "state_id": "2088"
     },
     {
@@ -128916,12 +128916,12 @@
     },
     {
       "id": "25785",
-      "name": "Jabbar-al-''Ali",
+      "name": "Jabbar-al-'Ali",
       "state_id": "2088"
     },
     {
       "id": "25786",
-      "name": "Shu''aybah",
+      "name": "Shu'aybah",
       "state_id": "2088"
     },
     {
@@ -129146,7 +129146,7 @@
     },
     {
       "id": "25831",
-      "name": "ad-Da''iyah",
+      "name": "ad-Da'iyah",
       "state_id": "2091"
     },
     {
@@ -129161,7 +129161,7 @@
     },
     {
       "id": "25834",
-      "name": "al-''Udayliyah",
+      "name": "al-'Udayliyah",
       "state_id": "2091"
     },
     {
@@ -130136,7 +130136,7 @@
     },
     {
       "id": "26029",
-      "name": "Ba''labakk",
+      "name": "Ba'labakk",
       "state_id": "2155"
     },
     {
@@ -130186,7 +130186,7 @@
     },
     {
       "id": "26039",
-      "name": "Marj ''Uyun",
+      "name": "Marj 'Uyun",
       "state_id": "2157"
     },
     {
@@ -134306,7 +134306,7 @@
     },
     {
       "id": "26863",
-      "name": "Anosibe An''ala",
+      "name": "Anosibe An'ala",
       "state_id": "2278"
     },
     {
@@ -134386,7 +134386,7 @@
     },
     {
       "id": "26879",
-      "name": "Belon''i Tsiribihina",
+      "name": "Belon'i Tsiribihina",
       "state_id": "2279"
     },
     {
@@ -137256,12 +137256,12 @@
     },
     {
       "id": "27453",
-      "name": "Magta'' Lahjar",
+      "name": "Magta' Lahjar",
       "state_id": "2401"
     },
     {
       "id": "27454",
-      "name": "Ayun-al-''Atrus",
+      "name": "Ayun-al-'Atrus",
       "state_id": "2403"
     },
     {
@@ -137281,7 +137281,7 @@
     },
     {
       "id": "27458",
-      "name": "an-Na''mah",
+      "name": "an-Na'mah",
       "state_id": "2404"
     },
     {
@@ -137296,7 +137296,7 @@
     },
     {
       "id": "27461",
-      "name": "Hsay Walad ''Ali Babi",
+      "name": "Hsay Walad 'Ali Babi",
       "state_id": "2407"
     },
     {
@@ -137416,7 +137416,7 @@
     },
     {
       "id": "27485",
-      "name": "Saint Julien d''Hotman",
+      "name": "Saint Julien d'Hotman",
       "state_id": "2414"
     },
     {
@@ -137426,7 +137426,7 @@
     },
     {
       "id": "27487",
-      "name": "Trou d''Eau Douce",
+      "name": "Trou d'Eau Douce",
       "state_id": "2414"
     },
     {
@@ -137456,7 +137456,7 @@
     },
     {
       "id": "27493",
-      "name": "L''Avenir",
+      "name": "L'Avenir",
       "state_id": "2417"
     },
     {
@@ -137536,7 +137536,7 @@
     },
     {
       "id": "27509",
-      "name": "D''Epinay",
+      "name": "D'Epinay",
       "state_id": "2418"
     },
     {
@@ -147936,7 +147936,7 @@
     },
     {
       "id": "29589",
-      "name": "Sidi Isma''il",
+      "name": "Sidi Isma'il",
       "state_id": "2507"
     },
     {
@@ -148001,7 +148001,7 @@
     },
     {
       "id": "29602",
-      "name": "Jama''at-al-Marirt",
+      "name": "Jama'at-al-Marirt",
       "state_id": "2513"
     },
     {
@@ -148196,7 +148196,7 @@
     },
     {
       "id": "29641",
-      "name": "al-''Ara''ish",
+      "name": "al-'Ara'ish",
       "state_id": "2522"
     },
     {
@@ -153251,12 +153251,12 @@
     },
     {
       "id": "30652",
-      "name": "N''Guigmi",
+      "name": "N'Guigmi",
       "state_id": "2640"
     },
     {
       "id": "30653",
-      "name": "Birni N''Gaoure",
+      "name": "Birni N'Gaoure",
       "state_id": "2641"
     },
     {
@@ -153336,7 +153336,7 @@
     },
     {
       "id": "30669",
-      "name": "Birni N''Konni",
+      "name": "Birni N'Konni",
       "state_id": "2644"
     },
     {
@@ -153361,7 +153361,7 @@
     },
     {
       "id": "30674",
-      "name": "Malbaza''uzine",
+      "name": "Malbaza'uzine",
       "state_id": "2644"
     },
     {
@@ -156326,7 +156326,7 @@
     },
     {
       "id": "31267",
-      "name": "al-Masna''ah",
+      "name": "al-Masna'ah",
       "state_id": "2721"
     },
     {
@@ -158641,7 +158641,7 @@
     },
     {
       "id": "31730",
-      "name": "Ma''ale Adummim",
+      "name": "Ma'ale Adummim",
       "state_id": "2762"
     },
     {
@@ -165491,7 +165491,7 @@
     },
     {
       "id": "33100",
-      "name": "Musay''id",
+      "name": "Musay'id",
       "state_id": "2927"
     },
     {
@@ -165571,7 +165571,7 @@
     },
     {
       "id": "33116",
-      "name": "L''Etang-Sale",
+      "name": "L'Etang-Sale",
       "state_id": "2932"
     },
     {
@@ -186946,12 +186946,12 @@
     },
     {
       "id": "37391",
-      "name": "Samalae''ulu",
+      "name": "Samalae'ulu",
       "state_id": "3124"
     },
     {
       "id": "37392",
-      "name": "A''opo",
+      "name": "A'opo",
       "state_id": "3125"
     },
     {
@@ -187051,7 +187051,7 @@
     },
     {
       "id": "37412",
-      "name": "Abu ''Aris",
+      "name": "Abu 'Aris",
       "state_id": "3149"
     },
     {
@@ -187061,12 +187061,12 @@
     },
     {
       "id": "37414",
-      "name": "Qal''at Bishah",
+      "name": "Qal'at Bishah",
       "state_id": "3149"
     },
     {
       "id": "37415",
-      "name": "Ha''il",
+      "name": "Ha'il",
       "state_id": "3152"
     },
     {
@@ -187106,12 +187106,12 @@
     },
     {
       "id": "37423",
-      "name": "at-Ta''if",
+      "name": "at-Ta'if",
       "state_id": "3155"
     },
     {
       "id": "37424",
-      "name": "Dar''iyah",
+      "name": "Dar'iyah",
       "state_id": "3156"
     },
     {
@@ -187156,7 +187156,7 @@
     },
     {
       "id": "37433",
-      "name": "Ara''ar",
+      "name": "Ara'ar",
       "state_id": "3161"
     },
     {
@@ -187206,7 +187206,7 @@
     },
     {
       "id": "37443",
-      "name": "al-Majma''ah",
+      "name": "al-Majma'ah",
       "state_id": "3163"
     },
     {
@@ -187726,12 +187726,12 @@
     },
     {
       "id": "37547",
-      "name": "Fil''akovo",
+      "name": "Fil'akovo",
       "state_id": "3187"
     },
     {
       "id": "37548",
-      "name": "Hnusht''a",
+      "name": "Hnusht'a",
       "state_id": "3187"
     },
     {
@@ -187791,12 +187791,12 @@
     },
     {
       "id": "37560",
-      "name": "Tornal''a",
+      "name": "Tornal'a",
       "state_id": "3187"
     },
     {
       "id": "37561",
-      "name": "Vel''ky Krtish",
+      "name": "Vel'ky Krtish",
       "state_id": "3187"
     },
     {
@@ -187901,7 +187901,7 @@
     },
     {
       "id": "37582",
-      "name": "Kral''ovsky Chlmec",
+      "name": "Kral'ovsky Chlmec",
       "state_id": "3189"
     },
     {
@@ -187961,7 +187961,7 @@
     },
     {
       "id": "37594",
-      "name": "Vel''ke Kapushany",
+      "name": "Vel'ke Kapushany",
       "state_id": "3189"
     },
     {
@@ -188036,7 +188036,7 @@
     },
     {
       "id": "37609",
-      "name": "Shal''a",
+      "name": "Shal'a",
       "state_id": "3190"
     },
     {
@@ -188156,7 +188156,7 @@
     },
     {
       "id": "37633",
-      "name": "Stara L''ubovna",
+      "name": "Stara L'ubovna",
       "state_id": "3191"
     },
     {
@@ -188176,7 +188176,7 @@
     },
     {
       "id": "37637",
-      "name": "Vel''ky Sharish",
+      "name": "Vel'ky Sharish",
       "state_id": "3191"
     },
     {
@@ -188281,7 +188281,7 @@
     },
     {
       "id": "37658",
-      "name": "Topol''chany",
+      "name": "Topol'chany",
       "state_id": "3192"
     },
     {
@@ -188346,7 +188346,7 @@
     },
     {
       "id": "37671",
-      "name": "Piesht''any",
+      "name": "Piesht'any",
       "state_id": "3193"
     },
     {
@@ -188396,12 +188396,12 @@
     },
     {
       "id": "37681",
-      "name": "Vel''ke Ul''any",
+      "name": "Vel'ke Ul'any",
       "state_id": "3193"
     },
     {
       "id": "37682",
-      "name": "Vel''ky Meder",
+      "name": "Vel'ky Meder",
       "state_id": "3193"
     },
     {
@@ -188541,7 +188541,7 @@
     },
     {
       "id": "37710",
-      "name": "Vel''ke Rovne",
+      "name": "Vel'ke Rovne",
       "state_id": "3194"
     },
     {
@@ -189951,7 +189951,7 @@
     },
     {
       "id": "37992",
-      "name": "Bandarmu''ayo",
+      "name": "Bandarmu'ayo",
       "state_id": "3224"
     },
     {
@@ -190046,7 +190046,7 @@
     },
     {
       "id": "38011",
-      "name": "Sa''o",
+      "name": "Sa'o",
       "state_id": "3227"
     },
     {
@@ -190056,7 +190056,7 @@
     },
     {
       "id": "38013",
-      "name": "Bal''ad",
+      "name": "Bal'ad",
       "state_id": "3228"
     },
     {
@@ -190076,7 +190076,7 @@
     },
     {
       "id": "38017",
-      "name": "Galka''yo",
+      "name": "Galka'yo",
       "state_id": "3231"
     },
     {
@@ -190101,7 +190101,7 @@
     },
     {
       "id": "38022",
-      "name": "Las''anod",
+      "name": "Las'anod",
       "state_id": "3232"
     },
     {
@@ -190121,7 +190121,7 @@
     },
     {
       "id": "38026",
-      "name": "Bur''o",
+      "name": "Bur'o",
       "state_id": "3236"
     },
     {
@@ -190736,7 +190736,7 @@
     },
     {
       "id": "38149",
-      "name": "L''Alfas del Pi",
+      "name": "L'Alfas del Pi",
       "state_id": "3255"
     },
     {
@@ -190796,7 +190796,7 @@
     },
     {
       "id": "38161",
-      "name": "Sant Joan d''Alacant",
+      "name": "Sant Joan d'Alacant",
       "state_id": "3255"
     },
     {
@@ -191366,7 +191366,7 @@
     },
     {
       "id": "38275",
-      "name": "L''Hospitalet de Llobregat",
+      "name": "L'Hospitalet de Llobregat",
       "state_id": "3264"
     },
     {
@@ -191386,7 +191386,7 @@
     },
     {
       "id": "38279",
-      "name": "Llica d''Amunt",
+      "name": "Llica d'Amunt",
       "state_id": "3264"
     },
     {
@@ -191556,7 +191556,7 @@
     },
     {
       "id": "38313",
-      "name": "Sant Sadurni d''Anoia",
+      "name": "Sant Sadurni d'Anoia",
       "state_id": "3264"
     },
     {
@@ -191921,12 +191921,12 @@
     },
     {
       "id": "38386",
-      "name": "L''Alcora",
+      "name": "L'Alcora",
       "state_id": "3271"
     },
     {
       "id": "38387",
-      "name": "La Vall d''Uixo",
+      "name": "La Vall d'Uixo",
       "state_id": "3271"
     },
     {
@@ -192106,7 +192106,7 @@
     },
     {
       "id": "38423",
-      "name": "La Bisbal d''Emporda",
+      "name": "La Bisbal d'Emporda",
       "state_id": "3284"
     },
     {
@@ -192656,7 +192656,7 @@
     },
     {
       "id": "38533",
-      "name": "La Seu d''Urgell",
+      "name": "La Seu d'Urgell",
       "state_id": "3295"
     },
     {
@@ -193916,12 +193916,12 @@
     },
     {
       "id": "38785",
-      "name": "L''Alcudia",
+      "name": "L'Alcudia",
       "state_id": "3315"
     },
     {
       "id": "38786",
-      "name": "L''Eliana",
+      "name": "L'Eliana",
       "state_id": "3315"
     },
     {
@@ -194771,7 +194771,7 @@
     },
     {
       "id": "38956",
-      "name": "Hajj ''Abdallah",
+      "name": "Hajj 'Abdallah",
       "state_id": "3369"
     },
     {
@@ -194866,12 +194866,12 @@
     },
     {
       "id": "38975",
-      "name": "Abu ''Usar",
+      "name": "Abu 'Usar",
       "state_id": "3374"
     },
     {
       "id": "38976",
-      "name": "Arba''atun wa ''Ishrun-al-Qurash",
+      "name": "Arba'atun wa 'Ishrun-al-Qurash",
       "state_id": "3374"
     },
     {
@@ -194886,7 +194886,7 @@
     },
     {
       "id": "38979",
-      "name": "Rufa''a",
+      "name": "Rufa'a",
       "state_id": "3374"
     },
     {
@@ -194951,7 +194951,7 @@
     },
     {
       "id": "38992",
-      "name": "al-Mu''sadiyah",
+      "name": "al-Mu'sadiyah",
       "state_id": "3374"
     },
     {
@@ -194986,7 +194986,7 @@
     },
     {
       "id": "38999",
-      "name": "Qala''-an-Nahl",
+      "name": "Qala'-an-Nahl",
       "state_id": "3376"
     },
     {
@@ -195156,7 +195156,7 @@
     },
     {
       "id": "39033",
-      "name": "Tangasi-ar-Ru''ays",
+      "name": "Tangasi-ar-Ru'ays",
       "state_id": "3380"
     },
     {
@@ -195286,7 +195286,7 @@
     },
     {
       "id": "39059",
-      "name": "Pigg''s Peak",
+      "name": "Pigg's Peak",
       "state_id": "3391"
     },
     {
@@ -197981,7 +197981,7 @@
     },
     {
       "id": "39598",
-      "name": "Dar''a",
+      "name": "Dar'a",
       "state_id": "3457"
     },
     {
@@ -198081,12 +198081,12 @@
     },
     {
       "id": "39618",
-      "name": "Ayn-al-''Arab",
+      "name": "Ayn-al-'Arab",
       "state_id": "3460"
     },
     {
       "id": "39619",
-      "name": "A''zaz",
+      "name": "A'zaz",
       "state_id": "3460"
     },
     {
@@ -198171,7 +198171,7 @@
     },
     {
       "id": "39636",
-      "name": "Ma''arrat-an-Nu''man",
+      "name": "Ma'arrat-an-Nu'man",
       "state_id": "3463"
     },
     {
@@ -198191,7 +198191,7 @@
     },
     {
       "id": "39640",
-      "name": "Ra''s-al-''Ayn",
+      "name": "Ra's-al-'Ayn",
       "state_id": "3466"
     },
     {
@@ -198681,7 +198681,7 @@
     },
     {
       "id": "39738",
-      "name": "Mu''minobod",
+      "name": "Mu'minobod",
       "state_id": "3503"
     },
     {
@@ -199951,12 +199951,12 @@
     },
     {
       "id": "39992",
-      "name": "Mu''a",
+      "name": "Mu'a",
       "state_id": "3615"
     },
     {
       "id": "39993",
-      "name": "Nuku''alofa",
+      "name": "Nuku'alofa",
       "state_id": "3615"
     },
     {
@@ -200046,7 +200046,7 @@
     },
     {
       "id": "40011",
-      "name": "Burj-al-''Amri",
+      "name": "Burj-al-'Amri",
       "state_id": "3633"
     },
     {
@@ -200056,7 +200056,7 @@
     },
     {
       "id": "40013",
-      "name": "Qal''at-al-Andalus",
+      "name": "Qal'at-al-Andalus",
       "state_id": "3633"
     },
     {
@@ -200136,7 +200136,7 @@
     },
     {
       "id": "40029",
-      "name": "al-Ma''qulah",
+      "name": "al-Ma'qulah",
       "state_id": "3634"
     },
     {
@@ -200156,7 +200156,7 @@
     },
     {
       "id": "40033",
-      "name": "Manzil ''Abd-ar-Rahman",
+      "name": "Manzil 'Abd-ar-Rahman",
       "state_id": "3636"
     },
     {
@@ -200196,7 +200196,7 @@
     },
     {
       "id": "40041",
-      "name": "al-''Aliyah",
+      "name": "al-'Aliyah",
       "state_id": "3636"
     },
     {
@@ -200306,17 +200306,17 @@
     },
     {
       "id": "40063",
-      "name": "Bu ''Urqub",
+      "name": "Bu 'Urqub",
       "state_id": "3645"
     },
     {
       "id": "40064",
-      "name": "Dar ''Alush",
+      "name": "Dar 'Alush",
       "state_id": "3645"
     },
     {
       "id": "40065",
-      "name": "Dar Sha''ban",
+      "name": "Dar Sha'ban",
       "state_id": "3645"
     },
     {
@@ -200396,7 +200396,7 @@
     },
     {
       "id": "40081",
-      "name": "al-Ma''murah",
+      "name": "al-Ma'murah",
       "state_id": "3645"
     },
     {
@@ -200406,7 +200406,7 @@
     },
     {
       "id": "40083",
-      "name": "as-Sama''ah",
+      "name": "as-Sama'ah",
       "state_id": "3645"
     },
     {
@@ -200466,7 +200466,7 @@
     },
     {
       "id": "40095",
-      "name": "Umm-al-''Arais",
+      "name": "Umm-al-'Arais",
       "state_id": "3647"
     },
     {
@@ -200521,7 +200521,7 @@
     },
     {
       "id": "40106",
-      "name": "al-Qal''ah",
+      "name": "al-Qal'ah",
       "state_id": "3648"
     },
     {
@@ -200531,7 +200531,7 @@
     },
     {
       "id": "40108",
-      "name": "Bi''r Ali Bin Khalifah",
+      "name": "Bi'r Ali Bin Khalifah",
       "state_id": "3649"
     },
     {
@@ -200581,7 +200581,7 @@
     },
     {
       "id": "40118",
-      "name": "al-''Ayn",
+      "name": "al-'Ayn",
       "state_id": "3649"
     },
     {
@@ -200616,7 +200616,7 @@
     },
     {
       "id": "40125",
-      "name": "Bu ''Aradah",
+      "name": "Bu 'Aradah",
       "state_id": "3652"
     },
     {
@@ -200636,7 +200636,7 @@
     },
     {
       "id": "40129",
-      "name": "Qa''afur",
+      "name": "Qa'afur",
       "state_id": "3652"
     },
     {
@@ -200646,7 +200646,7 @@
     },
     {
       "id": "40131",
-      "name": "al-''Arusah",
+      "name": "al-'Arusah",
       "state_id": "3652"
     },
     {
@@ -200691,7 +200691,7 @@
     },
     {
       "id": "40140",
-      "name": "Sidi Bu ''Ali",
+      "name": "Sidi Bu 'Ali",
       "state_id": "3653"
     },
     {
@@ -200711,17 +200711,17 @@
     },
     {
       "id": "40144",
-      "name": "al-Masa''din",
+      "name": "al-Masa'din",
       "state_id": "3653"
     },
     {
       "id": "40145",
-      "name": "al-Qal''at-al-Kabirah",
+      "name": "al-Qal'at-al-Kabirah",
       "state_id": "3653"
     },
     {
       "id": "40146",
-      "name": "al-Qal''at-as-Saghirah",
+      "name": "al-Qal'at-as-Saghirah",
       "state_id": "3653"
     },
     {
@@ -200736,7 +200736,7 @@
     },
     {
       "id": "40149",
-      "name": "Bi''r-al-Ahmar",
+      "name": "Bi'r-al-Ahmar",
       "state_id": "3654"
     },
     {
@@ -200816,7 +200816,7 @@
     },
     {
       "id": "40165",
-      "name": "Sidi Bu Sa''id",
+      "name": "Sidi Bu Sa'id",
       "state_id": "3656"
     },
     {
@@ -200831,7 +200831,7 @@
     },
     {
       "id": "40168",
-      "name": "Bi''r Mashariqah",
+      "name": "Bi'r Mashariqah",
       "state_id": "3657"
     },
     {
@@ -200871,7 +200871,7 @@
     },
     {
       "id": "40176",
-      "name": "Qal''at-as-Sanan",
+      "name": "Qal'at-as-Sanan",
       "state_id": "3658"
     },
     {
@@ -200901,7 +200901,7 @@
     },
     {
       "id": "40182",
-      "name": "al-Qal''at-al-Khasba",
+      "name": "al-Qal'at-al-Khasba",
       "state_id": "3658"
     },
     {
@@ -200961,12 +200961,12 @@
     },
     {
       "id": "40194",
-      "name": "Sidi ''Ulwan",
+      "name": "Sidi 'Ulwan",
       "state_id": "3659"
     },
     {
       "id": "40195",
-      "name": "al-Baradi''ah",
+      "name": "al-Baradi'ah",
       "state_id": "3659"
     },
     {
@@ -201076,7 +201076,7 @@
     },
     {
       "id": "40217",
-      "name": "Sahilin Ma''atmar",
+      "name": "Sahilin Ma'atmar",
       "state_id": "3660"
     },
     {
@@ -201086,7 +201086,7 @@
     },
     {
       "id": "40219",
-      "name": "Sidi ''Amara",
+      "name": "Sidi 'Amara",
       "state_id": "3660"
     },
     {
@@ -201166,7 +201166,7 @@
     },
     {
       "id": "40235",
-      "name": "Majal Bal ''Abbas",
+      "name": "Majal Bal 'Abbas",
       "state_id": "3661"
     },
     {
@@ -201211,7 +201211,7 @@
     },
     {
       "id": "40244",
-      "name": "Hajib-al-''Ayun",
+      "name": "Hajib-al-'Ayun",
       "state_id": "3662"
     },
     {
@@ -201226,7 +201226,7 @@
     },
     {
       "id": "40247",
-      "name": "al-''Ala",
+      "name": "al-'Ala",
       "state_id": "3662"
     },
     {
@@ -206416,7 +206416,7 @@
     },
     {
       "id": "41285",
-      "name": "Novomoskovs''k",
+      "name": "Novomoskovs'k",
       "state_id": "3770"
     },
     {
@@ -206436,12 +206436,12 @@
     },
     {
       "id": "41289",
-      "name": "Artemivs''k",
+      "name": "Artemivs'k",
       "state_id": "3771"
     },
     {
       "id": "41290",
-      "name": "Donets''k",
+      "name": "Donets'k",
       "state_id": "3771"
     },
     {
@@ -206461,7 +206461,7 @@
     },
     {
       "id": "41294",
-      "name": "Dzerzhyns''k",
+      "name": "Dzerzhyns'k",
       "state_id": "3771"
     },
     {
@@ -206471,7 +206471,7 @@
     },
     {
       "id": "41296",
-      "name": "Khartsyz''k",
+      "name": "Khartsyz'k",
       "state_id": "3771"
     },
     {
@@ -206481,12 +206481,12 @@
     },
     {
       "id": "41298",
-      "name": "Kramators''k",
+      "name": "Kramators'k",
       "state_id": "3771"
     },
     {
       "id": "41299",
-      "name": "Krasnoarmiys''k",
+      "name": "Krasnoarmiys'k",
       "state_id": "3771"
     },
     {
@@ -206501,12 +206501,12 @@
     },
     {
       "id": "41302",
-      "name": "Shakhtars''k",
+      "name": "Shakhtars'k",
       "state_id": "3771"
     },
     {
       "id": "41303",
-      "name": "Slov''yans''k",
+      "name": "Slov'yans'k",
       "state_id": "3771"
     },
     {
@@ -206526,7 +206526,7 @@
     },
     {
       "id": "41307",
-      "name": "Ivano-Frankivs''k",
+      "name": "Ivano-Frankivs'k",
       "state_id": "3772"
     },
     {
@@ -206576,12 +206576,12 @@
     },
     {
       "id": "41317",
-      "name": "Kam''yanets''-Podil''s''kyy",
+      "name": "Kam'yanets'-Podil's'kyy",
       "state_id": "3776"
     },
     {
       "id": "41318",
-      "name": "Khmel''nyts''kyy",
+      "name": "Khmel'nyts'kyy",
       "state_id": "3776"
     },
     {
@@ -206681,7 +206681,7 @@
     },
     {
       "id": "41338",
-      "name": "L''viv",
+      "name": "L'viv",
       "state_id": "3781"
     },
     {
@@ -206696,7 +206696,7 @@
     },
     {
       "id": "41341",
-      "name": "Alchevs''k",
+      "name": "Alchevs'k",
       "state_id": "3782"
     },
     {
@@ -206721,7 +206721,7 @@
     },
     {
       "id": "41346",
-      "name": "Luhans''k",
+      "name": "Luhans'k",
       "state_id": "3782"
     },
     {
@@ -206731,17 +206731,17 @@
     },
     {
       "id": "41348",
-      "name": "Lysychans''k",
+      "name": "Lysychans'k",
       "state_id": "3782"
     },
     {
       "id": "41349",
-      "name": "Pervomays''k",
+      "name": "Pervomays'k",
       "state_id": "3782"
     },
     {
       "id": "41350",
-      "name": "Roven''ky",
+      "name": "Roven'ky",
       "state_id": "3782"
     },
     {
@@ -206756,12 +206756,12 @@
     },
     {
       "id": "41353",
-      "name": "Sverdlovs''k",
+      "name": "Sverdlovs'k",
       "state_id": "3782"
     },
     {
       "id": "41354",
-      "name": "Syeverodonets''k",
+      "name": "Syeverodonets'k",
       "state_id": "3782"
     },
     {
@@ -206771,17 +206771,17 @@
     },
     {
       "id": "41356",
-      "name": "Pervomays''k",
+      "name": "Pervomays'k",
       "state_id": "3783"
     },
     {
       "id": "41357",
-      "name": "Bilhorod-Dnistrovs''kyy",
+      "name": "Bilhorod-Dnistrovs'kyy",
       "state_id": "3784"
     },
     {
       "id": "41358",
-      "name": "Illichivs''k",
+      "name": "Illichivs'k",
       "state_id": "3784"
     },
     {
@@ -206801,7 +206801,7 @@
     },
     {
       "id": "41362",
-      "name": "Komsomol''s''k",
+      "name": "Komsomol's'k",
       "state_id": "3786"
     },
     {
@@ -206861,12 +206861,12 @@
     },
     {
       "id": "41374",
-      "name": "Luts''k",
+      "name": "Luts'k",
       "state_id": "3791"
     },
     {
       "id": "41375",
-      "name": "Novovolyns''k",
+      "name": "Novovolyns'k",
       "state_id": "3791"
     },
     {
@@ -206891,7 +206891,7 @@
     },
     {
       "id": "41380",
-      "name": "Berdyans''k",
+      "name": "Berdyans'k",
       "state_id": "3794"
     },
     {
@@ -206921,7 +206921,7 @@
     },
     {
       "id": "41386",
-      "name": "Novohrad-Volyns''kyy",
+      "name": "Novohrad-Volyns'kyy",
       "state_id": "3795"
     },
     {
@@ -208066,7 +208066,7 @@
     },
     {
       "id": "41615",
-      "name": "Bishop''s Stortford",
+      "name": "Bishop's Stortford",
       "state_id": "3842"
     },
     {
@@ -208961,7 +208961,7 @@
     },
     {
       "id": "41794",
-      "name": "King''s Lynn",
+      "name": "King's Lynn",
       "state_id": "3842"
     },
     {
@@ -209116,7 +209116,7 @@
     },
     {
       "id": "41825",
-      "name": "Lytham Saint Anne''s",
+      "name": "Lytham Saint Anne's",
       "state_id": "3842"
     },
     {
@@ -218716,7 +218716,7 @@
     },
     {
       "id": "43745",
-      "name": "Land O''Lakes",
+      "name": "Land O'Lakes",
       "state_id": "3930"
     },
     {
@@ -219446,7 +219446,7 @@
     },
     {
       "id": "43891",
-      "name": "Town''n''Country",
+      "name": "Town'n'Country",
       "state_id": "3930"
     },
     {
@@ -220536,7 +220536,7 @@
     },
     {
       "id": "44109",
-      "name": "Coeur d''Alene",
+      "name": "Coeur d'Alene",
       "state_id": "3933"
     },
     {
@@ -221546,7 +221546,7 @@
     },
     {
       "id": "44311",
-      "name": "O''Fallon",
+      "name": "O'Fallon",
       "state_id": "3934"
     },
     {
@@ -227396,7 +227396,7 @@
     },
     {
       "id": "45481",
-      "name": "O''Fallon",
+      "name": "O'Fallon",
       "state_id": "3948"
     },
     {
@@ -233246,7 +233246,7 @@
     },
     {
       "id": "46651",
-      "name": "Bailey''s Crossroads",
+      "name": "Bailey's Crossroads",
       "state_id": "3974"
     },
     {
@@ -236851,7 +236851,7 @@
     },
     {
       "id": "47372",
-      "name": "Mala''e",
+      "name": "Mala'e",
       "state_id": "4070"
     },
     {
@@ -236971,7 +236971,7 @@
     },
     {
       "id": "47396",
-      "name": "Mala''e",
+      "name": "Mala'e",
       "state_id": "4072"
     },
     {
@@ -236981,7 +236981,7 @@
     },
     {
       "id": "47398",
-      "name": "Mata''Utu",
+      "name": "Mata'Utu",
       "state_id": "4072"
     },
     {
@@ -237021,7 +237021,7 @@
     },
     {
       "id": "47406",
-      "name": "al-''Ayun",
+      "name": "al-'Ayun",
       "state_id": "4075"
     },
     {
@@ -237046,7 +237046,7 @@
     },
     {
       "id": "47411",
-      "name": "Ja''ar",
+      "name": "Ja'ar",
       "state_id": "4078"
     },
     {
@@ -237101,7 +237101,7 @@
     },
     {
       "id": "47422",
-      "name": "Qa''tabah",
+      "name": "Qa'tabah",
       "state_id": "4083"
     },
     {
@@ -237116,12 +237116,12 @@
     },
     {
       "id": "47425",
-      "name": "Ma''rib",
+      "name": "Ma'rib",
       "state_id": "4085"
     },
     {
       "id": "47426",
-      "name": "Sa''dah",
+      "name": "Sa'dah",
       "state_id": "4087"
     },
     {
@@ -237161,7 +237161,7 @@
     },
     {
       "id": "47434",
-      "name": "Ta''izz",
+      "name": "Ta'izz",
       "state_id": "4090"
     },
     {
@@ -237201,7 +237201,7 @@
     },
     {
       "id": "47442",
-      "name": "al-Marawi''ah",
+      "name": "al-Marawi'ah",
       "state_id": "4092"
     },
     {
@@ -241566,212 +241566,212 @@
     },
     {
       "id": "48315",
-      "name": 'Alcala',
+      "name": "Alcala",
       "state_id": "805"
     },
     {
       "id": "48316",
-      "name": 'Andalucia',
+      "name": "Andalucia",
       "state_id": "805"
     },
     {
       "id": "48317",
-      "name": 'Ansermanuevo',
+      "name": "Ansermanuevo",
       "state_id": "805"
     },
     {
       "id": "48318",
-      "name": 'Argelia',
+      "name": "Argelia",
       "state_id": "805"
     },
     {
       "id": "48319",
-      "name": 'Bolivar',
+      "name": "Bolivar",
       "state_id": "805"
     },
     {
       "id": "48320",
-      "name": 'Buenaventura',
+      "name": "Buenaventura",
       "state_id": "805"
     },
     {
       "id": "48321",
-      "name": 'Buga',
+      "name": "Buga",
       "state_id": "805"
     },
     {
       "id": "48322",
-      "name": 'Bugalagrande',
+      "name": "Bugalagrande",
       "state_id": "805"
     },
     {
       "id": "48323",
-      "name": 'Caicedonia',
+      "name": "Caicedonia",
       "state_id": "805"
     },
     {
       "id": "48324",
-      "name": 'Cali',
+      "name": "Cali",
       "state_id": "805"
     },
     {
       "id": "48325",
-      "name": 'Calima - El Darien',
+      "name": "Calima - El Darien",
       "state_id": "805"
     },
     {
       "id": "48326",
-      "name": 'Candelaria',
+      "name": "Candelaria",
       "state_id": "805"
     },
     {
       "id": "48327",
-      "name": 'Cartago',
+      "name": "Cartago",
       "state_id": "805"
     },
     {
       "id": "48328",
-      "name": 'Dagua',
+      "name": "Dagua",
       "state_id": "805"
     },
     {
       "id": "48329",
-      "name": 'El Aguila',
+      "name": "El Aguila",
       "state_id": "805"
     },
     {
       "id": "48330",
-      "name": 'El Cairo',
+      "name": "El Cairo",
       "state_id": "805"
     },
     {
       "id": "48331",
-      "name": 'El Cerrito',
+      "name": "El Cerrito",
       "state_id": "805"
     },
     {
       "id": "48332",
-      "name": 'El Dovio',
+      "name": "El Dovio",
       "state_id": "805"
     },
     {
       "id": "48333",
-      "name": 'Florida',
+      "name": "Florida",
       "state_id": "805"
     },
     {
       "id": "48334",
-      "name": 'Ginebra',
+      "name": "Ginebra",
       "state_id": "805"
     },
     {
       "id": "48335",
-      "name": 'Guacari',
+      "name": "Guacari",
       "state_id": "805"
     },
     {
       "id": "48336",
-      "name": 'Jamundi',
+      "name": "Jamundi",
       "state_id": "805"
     },
     {
       "id": "48337",
-      "name": 'La Cumbre',
+      "name": "La Cumbre",
       "state_id": "805"
     },
     {
       "id": "48338",
-      "name": 'La Union',
+      "name": "La Union",
       "state_id": "805"
     },
     {
       "id": "48339",
-      "name": 'La Victoria',
+      "name": "La Victoria",
       "state_id": "805"
     },
     {
       "id": "48340",
-      "name": 'Obando',
+      "name": "Obando",
       "state_id": "805"
     },
     {
       "id": "48341",
-      "name": 'Palmira',
+      "name": "Palmira",
       "state_id": "805"
     },
     {
       "id": "48342",
-      "name": 'Pradera',
+      "name": "Pradera",
       "state_id": "805"
     },
     {
       "id": "48343",
-      "name": 'Restrepo',
+      "name": "Restrepo",
       "state_id": "805"
     },
     {
       "id": "48344",
-      "name": 'Riofrio',
+      "name": "Riofrio",
       "state_id": "805"
     },
     {
       "id": "48345",
-      "name": 'Roldanillo',
+      "name": "Roldanillo",
       "state_id": "805"
     },
     {
       "id": "48346",
-      "name": 'San Pedro',
+      "name": "San Pedro",
       "state_id": "805"
     },
     {
       "id": "48347",
-      "name": 'Sevilla',
+      "name": "Sevilla",
       "state_id": "805"
     },
     {
       "id": "48348",
-      "name": 'Toro',
+      "name": "Toro",
       "state_id": "805"
     },
     {
       "id": "48349",
-      "name": 'Trujillo',
+      "name": "Trujillo",
       "state_id": "805"
     },
     {
       "id": "48350",
-      "name": 'Tulua',
+      "name": "Tulua",
       "state_id": "805"
     },
     {
       "id": "48351",
-      "name": 'Ulloa',
+      "name": "Ulloa",
       "state_id": "805"
     },
     {
       "id": "48352",
-      "name": 'Versalles',
+      "name": "Versalles",
       "state_id": "805"
     },
     {
       "id": "48353",
-      "name": 'Vijes',
+      "name": "Vijes",
       "state_id": "805"
     },
     {
       "id": "48354",
-      "name": 'Yotoco',
+      "name": "Yotoco",
       "state_id": "805"
     },
     {
       "id": "48355",
-      "name": 'Yumbo',
+      "name": "Yumbo",
       "state_id": "805"
     },
     {
       "id": "48356",
-      "name": 'Zarzal',
+      "name": "Zarzal",
       "state_id": "805"
     }
   ]

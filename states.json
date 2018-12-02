@@ -706,7 +706,7 @@
         },
         {
             "id": "142",
-            "name": "Sidi ban-al-''Abbas",
+            "name": "Sidi ban-al-'Abbas",
             "country_id": "3"
         },
         {
@@ -796,7 +796,7 @@
         },
         {
             "id": "160",
-            "name": "al-Jaza''ir",
+            "name": "al-Jaza'ir",
             "country_id": "3"
         },
         {
@@ -821,7 +821,7 @@
         },
         {
             "id": "165",
-            "name": "Manu''a",
+            "name": "Manu'a",
             "country_id": "4"
         },
         {
@@ -1676,7 +1676,7 @@
         },
         {
             "id": "336",
-            "name": "ar-Rifa''a",
+            "name": "ar-Rifa'a",
             "country_id": "17"
         },
         {
@@ -4306,7 +4306,7 @@
         },
         {
             "id": "862",
-            "name": "N''zi-Comoe",
+            "name": "N'zi-Comoe",
             "country_id": "53"
         },
         {
@@ -5231,7 +5231,7 @@
         },
         {
             "id": "1047",
-            "name": "Bur Sa''id",
+            "name": "Bur Sa'id",
             "country_id": "64"
         },
         {
@@ -6061,12 +6061,12 @@
         },
         {
             "id": "1213",
-            "name": "Cote-d''Or",
+            "name": "Cote-d'Or",
             "country_id": "75"
         },
         {
             "id": "1214",
-            "name": "Cotes-d''Armor",
+            "name": "Cotes-d'Armor",
             "country_id": "75"
         },
         {
@@ -6521,7 +6521,7 @@
         },
         {
             "id": "1305",
-            "name": "Val-d''Oise",
+            "name": "Val-d'Oise",
             "country_id": "75"
         },
         {
@@ -7476,7 +7476,7 @@
         },
         {
             "id": "1496",
-            "name": "Saint George''s",
+            "name": "Saint George's",
             "country_id": "87"
         },
         {
@@ -8041,7 +8041,7 @@
         },
         {
             "id": "1609",
-            "name": "Grand''Anse",
+            "name": "Grand'Anse",
             "country_id": "95"
         },
         {
@@ -8736,7 +8736,7 @@
         },
         {
             "id": "1748",
-            "name": "at-Ta''mim",
+            "name": "at-Ta'mim",
             "country_id": "104"
         },
         {
@@ -9196,7 +9196,7 @@
         },
         {
             "id": "1840",
-            "name": "L''Aquila",
+            "name": "L'Aquila",
             "country_id": "107"
         },
         {
@@ -9466,7 +9466,7 @@
         },
         {
             "id": "1894",
-            "name": "Valle d''Aosta",
+            "name": "Valle d'Aosta",
             "country_id": "107"
         },
         {
@@ -9901,7 +9901,7 @@
         },
         {
             "id": "1981",
-            "name": "Ma''an",
+            "name": "Ma'an",
             "country_id": "111"
         },
         {
@@ -9911,7 +9911,7 @@
         },
         {
             "id": "1983",
-            "name": "al-''Aqabah",
+            "name": "al-'Aqabah",
             "country_id": "111"
         },
         {
@@ -10816,7 +10816,7 @@
         },
         {
             "id": "2164",
-            "name": "Mohale''s Hoek",
+            "name": "Mohale's Hoek",
             "country_id": "122"
         },
         {
@@ -10826,7 +10826,7 @@
         },
         {
             "id": "2166",
-            "name": "Qacha''s Nek",
+            "name": "Qacha's Nek",
             "country_id": "122"
         },
         {
@@ -10986,7 +10986,7 @@
         },
         {
             "id": "2198",
-            "name": "al-''Aziziyah",
+            "name": "al-'Aziziyah",
             "country_id": "124"
         },
         {
@@ -13041,7 +13041,7 @@
         },
         {
             "id": "2609",
-            "name": "Hawke''s Bay",
+            "name": "Hawke's Bay",
             "country_id": "157"
         },
         {
@@ -15596,7 +15596,7 @@
         },
         {
             "id": "3120",
-            "name": "A''ana",
+            "name": "A'ana",
             "country_id": "188"
         },
         {
@@ -15611,12 +15611,12 @@
         },
         {
             "id": "3123",
-            "name": "Fa''asaleleaga",
+            "name": "Fa'asaleleaga",
             "country_id": "188"
         },
         {
             "id": "3124",
-            "name": "Gaga''emauga",
+            "name": "Gaga'emauga",
             "country_id": "188"
         },
         {
@@ -15631,7 +15631,7 @@
         },
         {
             "id": "3127",
-            "name": "Satupa''itea",
+            "name": "Satupa'itea",
             "country_id": "188"
         },
         {
@@ -15641,7 +15641,7 @@
         },
         {
             "id": "3129",
-            "name": "Va''a-o-Fonoti",
+            "name": "Va'a-o-Fonoti",
             "country_id": "188"
         },
         {
@@ -15756,7 +15756,7 @@
         },
         {
             "id": "3152",
-            "name": "Ha''il",
+            "name": "Ha'il",
             "country_id": "191"
         },
         {
@@ -16761,7 +16761,7 @@
         },
         {
             "id": "3353",
-            "name": "A''ali-an-Nil",
+            "name": "A'ali-an-Nil",
             "country_id": "207"
         },
         {
@@ -16791,7 +16791,7 @@
         },
         {
             "id": "3359",
-            "name": "Gharb-al-Istiwa''iyah",
+            "name": "Gharb-al-Istiwa'iyah",
             "country_id": "207"
         },
         {
@@ -16836,7 +16836,7 @@
         },
         {
             "id": "3368",
-            "name": "Sharq-al-Istiwa''iyah",
+            "name": "Sharq-al-Istiwa'iyah",
             "country_id": "207"
         },
         {
@@ -17281,7 +17281,7 @@
         },
         {
             "id": "3457",
-            "name": "Dar''a",
+            "name": "Dar'a",
             "country_id": "213"
         },
         {
@@ -18026,7 +18026,7 @@
         },
         {
             "id": "3613",
-            "name": "Ha''apai",
+            "name": "Ha'apai",
             "country_id": "220"
         },
         {
@@ -18041,7 +18041,7 @@
         },
         {
             "id": "3616",
-            "name": "Vava''u",
+            "name": "Vava'u",
             "country_id": "220"
         },
         {
@@ -18136,7 +18136,7 @@
         },
         {
             "id": "3635",
-            "name": "Bin ''Arus",
+            "name": "Bin 'Arus",
             "country_id": "222"
         },
         {
@@ -18791,17 +18791,17 @@
         },
         {
             "id": "3766",
-            "name": "Cherkas''ka",
+            "name": "Cherkas'ka",
             "country_id": "228"
         },
         {
             "id": "3767",
-            "name": "Chernihivs''ka",
+            "name": "Chernihivs'ka",
             "country_id": "228"
         },
         {
             "id": "3768",
-            "name": "Chernivets''ka",
+            "name": "Chernivets'ka",
             "country_id": "228"
         },
         {
@@ -18816,12 +18816,12 @@
         },
         {
             "id": "3771",
-            "name": "Donets''ka",
+            "name": "Donets'ka",
             "country_id": "228"
         },
         {
             "id": "3772",
-            "name": "Ivano-Frankivs''ka",
+            "name": "Ivano-Frankivs'ka",
             "country_id": "228"
         },
         {
@@ -18841,7 +18841,7 @@
         },
         {
             "id": "3776",
-            "name": "Khmel''nyts''ka",
+            "name": "Khmel'nyts'ka",
             "country_id": "228"
         },
         {
@@ -18861,27 +18861,27 @@
         },
         {
             "id": "3780",
-            "name": "Kyyivs''ka",
+            "name": "Kyyivs'ka",
             "country_id": "228"
         },
         {
             "id": "3781",
-            "name": "L''vivs''ka",
+            "name": "L'vivs'ka",
             "country_id": "228"
         },
         {
             "id": "3782",
-            "name": "Luhans''ka",
+            "name": "Luhans'ka",
             "country_id": "228"
         },
         {
             "id": "3783",
-            "name": "Mykolayivs''ka",
+            "name": "Mykolayivs'ka",
             "country_id": "228"
         },
         {
             "id": "3784",
-            "name": "Odes''ka",
+            "name": "Odes'ka",
             "country_id": "228"
         },
         {
@@ -18891,12 +18891,12 @@
         },
         {
             "id": "3786",
-            "name": "Poltavs''ka",
+            "name": "Poltavs'ka",
             "country_id": "228"
         },
         {
             "id": "3787",
-            "name": "Rivnens''ka",
+            "name": "Rivnens'ka",
             "country_id": "228"
         },
         {
@@ -18906,27 +18906,27 @@
         },
         {
             "id": "3789",
-            "name": "Sums''ka",
+            "name": "Sums'ka",
             "country_id": "228"
         },
         {
             "id": "3790",
-            "name": "Ternopil''s''ka",
+            "name": "Ternopil's'ka",
             "country_id": "228"
         },
         {
             "id": "3791",
-            "name": "Volyns''ka",
+            "name": "Volyns'ka",
             "country_id": "228"
         },
         {
             "id": "3792",
-            "name": "Vynnyts''ka",
+            "name": "Vynnyts'ka",
             "country_id": "228"
         },
         {
             "id": "3793",
-            "name": "Zakarpats''ka",
+            "name": "Zakarpats'ka",
             "country_id": "228"
         },
         {
@@ -18936,7 +18936,7 @@
         },
         {
             "id": "3795",
-            "name": "Zhytomyrs''ka",
+            "name": "Zhytomyrs'ka",
             "country_id": "228"
         },
         {
@@ -20336,7 +20336,7 @@
         },
         {
             "id": "4075",
-            "name": "al-''Ayun",
+            "name": "al-'Ayun",
             "country_id": "242"
         },
         {
@@ -20386,17 +20386,17 @@
         },
         {
             "id": "4085",
-            "name": "Ma''rib",
+            "name": "Ma'rib",
             "country_id": "243"
         },
         {
             "id": "4086",
-            "name": "Madinat San''a",
+            "name": "Madinat San'a",
             "country_id": "243"
         },
         {
             "id": "4087",
-            "name": "Sa''dah",
+            "name": "Sa'dah",
             "country_id": "243"
         },
         {
@@ -20411,7 +20411,7 @@
         },
         {
             "id": "4090",
-            "name": "Ta''izz",
+            "name": "Ta'izz",
             "country_id": "243"
         },
         {
