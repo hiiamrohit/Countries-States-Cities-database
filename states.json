@@ -85,11 +85,6 @@
             "country_id": "101"
         },
         {
-            "id": "18",
-            "name": "Kenmore",
-            "country_id": "101"
-        },
-        {
             "id": "19",
             "name": "Kerala",
             "country_id": "101"
@@ -130,23 +125,8 @@
             "country_id": "101"
         },
         {
-            "id": "27",
-            "name": "Narora",
-            "country_id": "101"
-        },
-        {
-            "id": "28",
-            "name": "Natwar",
-            "country_id": "101"
-        },
-        {
             "id": "29",
             "name": "Odisha",
-            "country_id": "101"
-        },
-        {
-            "id": "30",
-            "name": "Paschim Medinipur",
             "country_id": "101"
         },
         {
@@ -192,11 +172,6 @@
         {
             "id": "39",
             "name": "Uttarakhand",
-            "country_id": "101"
-        },
-        {
-            "id": "40",
-            "name": "Vaishali",
             "country_id": "101"
         },
         {
