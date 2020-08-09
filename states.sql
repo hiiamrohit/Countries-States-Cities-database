@@ -2655,7 +2655,7 @@ INSERT INTO `states` (`id`, `name`, `country_id`) VALUES
 (2645, 'Tillabery', 159),
 (2646, 'Zinder', 159),
 (2647, 'Abia', 160),
-(2648, 'Abuja Federal Capital Territor', 160),
+(2648, 'Abuja Federal Capital Territory', 160),
 (2649, 'Adamawa', 160),
 (2650, 'Akwa Ibom', 160),
 (2651, 'Anambra', 160),
