@@ -1195,108 +1195,8 @@
             "country_id": "12"
         },
         {
-            "id": "245",
-            "name": "Auckland",
-            "country_id": "13"
-        },
-        {
             "id": "246",
             "name": "Australian Capital Territory",
-            "country_id": "13"
-        },
-        {
-            "id": "247",
-            "name": "Balgowlah",
-            "country_id": "13"
-        },
-        {
-            "id": "248",
-            "name": "Balmain",
-            "country_id": "13"
-        },
-        {
-            "id": "249",
-            "name": "Bankstown",
-            "country_id": "13"
-        },
-        {
-            "id": "250",
-            "name": "Baulkham Hills",
-            "country_id": "13"
-        },
-        {
-            "id": "251",
-            "name": "Bonnet Bay",
-            "country_id": "13"
-        },
-        {
-            "id": "252",
-            "name": "Camberwell",
-            "country_id": "13"
-        },
-        {
-            "id": "253",
-            "name": "Carole Park",
-            "country_id": "13"
-        },
-        {
-            "id": "254",
-            "name": "Castle Hill",
-            "country_id": "13"
-        },
-        {
-            "id": "255",
-            "name": "Caulfield",
-            "country_id": "13"
-        },
-        {
-            "id": "256",
-            "name": "Chatswood",
-            "country_id": "13"
-        },
-        {
-            "id": "257",
-            "name": "Cheltenham",
-            "country_id": "13"
-        },
-        {
-            "id": "258",
-            "name": "Cherrybrook",
-            "country_id": "13"
-        },
-        {
-            "id": "259",
-            "name": "Clayton",
-            "country_id": "13"
-        },
-        {
-            "id": "260",
-            "name": "Collingwood",
-            "country_id": "13"
-        },
-        {
-            "id": "261",
-            "name": "Frenchs Forest",
-            "country_id": "13"
-        },
-        {
-            "id": "262",
-            "name": "Hawthorn",
-            "country_id": "13"
-        },
-        {
-            "id": "263",
-            "name": "Jannnali",
-            "country_id": "13"
-        },
-        {
-            "id": "264",
-            "name": "Knoxfield",
-            "country_id": "13"
-        },
-        {
-            "id": "265",
-            "name": "Melbourne",
             "country_id": "13"
         },
         {
@@ -1307,11 +1207,6 @@
         {
             "id": "267",
             "name": "Northern Territory",
-            "country_id": "13"
-        },
-        {
-            "id": "268",
-            "name": "Perth",
             "country_id": "13"
         },
         {
@@ -1330,28 +1225,13 @@
             "country_id": "13"
         },
         {
-            "id": "272",
-            "name": "Templestowe",
-            "country_id": "13"
-        },
-        {
             "id": "273",
             "name": "Victoria",
             "country_id": "13"
         },
         {
-            "id": "274",
-            "name": "Werribee south",
-            "country_id": "13"
-        },
-        {
             "id": "275",
             "name": "Western Australia",
-            "country_id": "13"
-        },
-        {
-            "id": "276",
-            "name": "Wheeler",
             "country_id": "13"
         },
         {
