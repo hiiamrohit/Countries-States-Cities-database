@@ -16,7 +16,7 @@ CREATE TABLE IF NOT EXISTS `countries` (
 
 
 
-INSERT INTO `countries` (`id`, `sortname`, `name`, `phonecode`) VALUES
+INSERT INTO `countries` (`id`, `shortname`, `name`, `phonecode`) VALUES
 (1, 'AF', 'Afghanistan', 93),
 (2, 'AL', 'Albania', 355),
 (3, 'DZ', 'Algeria', 213),
