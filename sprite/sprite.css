@@ -1,0 +1,1187 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-flag-of-Afghanistan {
+    width: 61px;
+    height: 36px;
+    background-position: -5px -5px;
+}
+
+.sprite-flag-of-Albania {
+    width: 61px;
+    height: 36px;
+    background-position: -76px -5px;
+}
+
+.sprite-flag-of-Algeria {
+    width: 61px;
+    height: 36px;
+    background-position: -147px -5px;
+}
+
+.sprite-flag-of-Andorra {
+    width: 61px;
+    height: 36px;
+    background-position: -218px -5px;
+}
+
+.sprite-flag-of-Angola {
+    width: 61px;
+    height: 36px;
+    background-position: -289px -5px;
+}
+
+.sprite-flag-of-Antigua {
+    width: 61px;
+    height: 36px;
+    background-position: -360px -5px;
+}
+
+.sprite-flag-of-Argentina {
+    width: 61px;
+    height: 36px;
+    background-position: -431px -5px;
+}
+
+.sprite-flag-of-Armenia {
+    width: 61px;
+    height: 36px;
+    background-position: -502px -5px;
+}
+
+.sprite-flag-of-Australia {
+    width: 61px;
+    height: 36px;
+    background-position: -573px -5px;
+}
+
+.sprite-flag-of-Austria {
+    width: 61px;
+    height: 36px;
+    background-position: -644px -5px;
+}
+
+.sprite-flag-of-Azerbaijan {
+    width: 61px;
+    height: 36px;
+    background-position: -715px -5px;
+}
+
+.sprite-flag-of-Bahamas {
+    width: 61px;
+    height: 36px;
+    background-position: -5px -51px;
+}
+
+.sprite-flag-of-Bahrain {
+    width: 61px;
+    height: 36px;
+    background-position: -76px -51px;
+}
+
+.sprite-flag-of-Bangladesh {
+    width: 61px;
+    height: 36px;
+    background-position: -147px -51px;
+}
+
+.sprite-flag-of-Barbados {
+    width: 61px;
+    height: 36px;
+    background-position: -218px -51px;
+}
+
+.sprite-flag-of-Belarus {
+    width: 61px;
+    height: 36px;
+    background-position: -289px -51px;
+}
+
+.sprite-flag-of-Belgium {
+    width: 61px;
+    height: 36px;
+    background-position: -360px -51px;
+}
+
+.sprite-flag-of-Belize {
+    width: 61px;
+    height: 36px;
+    background-position: -431px -51px;
+}
+
+.sprite-flag-of-Benin {
+    width: 61px;
+    height: 36px;
+    background-position: -502px -51px;
+}
+
+.sprite-flag-of-Bhutan {
+    width: 61px;
+    height: 36px;
+    background-position: -573px -51px;
+}
+
+.sprite-flag-of-Bolivia {
+    width: 61px;
+    height: 36px;
+    background-position: -644px -51px;
+}
+
+.sprite-flag-of-Bosnia-Herzegovina {
+    width: 61px;
+    height: 36px;
+    background-position: -715px -51px;
+}
+
+.sprite-flag-of-Botswana {
+    width: 61px;
+    height: 36px;
+    background-position: -5px -97px;
+}
+
+.sprite-flag-of-Brazil {
+    width: 61px;
+    height: 36px;
+    background-position: -76px -97px;
+}
+
+.sprite-flag-of-Brunei {
+    width: 61px;
+    height: 36px;
+    background-position: -147px -97px;
+}
+
+.sprite-flag-of-Bulgaria {
+    width: 61px;
+    height: 36px;
+    background-position: -218px -97px;
+}
+
+.sprite-flag-of-Burkina-Faso {
+    width: 61px;
+    height: 36px;
+    background-position: -289px -97px;
+}
+
+.sprite-flag-of-Burundi {
+    width: 61px;
+    height: 36px;
+    background-position: -360px -97px;
+}
+
+.sprite-flag-of-Cabo-Verde {
+    width: 61px;
+    height: 36px;
+    background-position: -431px -97px;
+}
+
+.sprite-flag-of-Cambodia {
+    width: 61px;
+    height: 36px;
+    background-position: -502px -97px;
+}
+
+.sprite-flag-of-Cameroon {
+    width: 61px;
+    height: 36px;
+    background-position: -573px -97px;
+}
+
+.sprite-flag-of-Canada {
+    width: 61px;
+    height: 36px;
+    background-position: -644px -97px;
+}
+
+.sprite-flag-of-Central-African-Republic {
+    width: 61px;
+    height: 36px;
+    background-position: -715px -97px;
+}
+
+.sprite-flag-of-Chad {
+    width: 61px;
+    height: 36px;
+    background-position: -5px -143px;
+}
+
+.sprite-flag-of-Chile {
+    width: 61px;
+    height: 36px;
+    background-position: -76px -143px;
+}
+
+.sprite-flag-of-China {
+    width: 61px;
+    height: 36px;
+    background-position: -147px -143px;
+}
+
+.sprite-flag-of-Colombia {
+    width: 61px;
+    height: 36px;
+    background-position: -218px -143px;
+}
+
+.sprite-flag-of-Comoros {
+    width: 61px;
+    height: 36px;
+    background-position: -289px -143px;
+}
+
+.sprite-flag-of-Congo {
+    width: 61px;
+    height: 36px;
+    background-position: -360px -143px;
+}
+
+.sprite-flag-of-Congo-Democratic-Republic-of {
+    width: 61px;
+    height: 36px;
+    background-position: -431px -143px;
+}
+
+.sprite-flag-of-Costa-Rica {
+    width: 61px;
+    height: 36px;
+    background-position: -502px -143px;
+}
+
+.sprite-flag-of-Cote-d-Ivoire {
+    width: 61px;
+    height: 36px;
+    background-position: -573px -143px;
+}
+
+.sprite-flag-of-Croatia {
+    width: 61px;
+    height: 36px;
+    background-position: -644px -143px;
+}
+
+.sprite-flag-of-Cuba {
+    width: 61px;
+    height: 36px;
+    background-position: -715px -143px;
+}
+
+.sprite-flag-of-Cyprus {
+    width: 61px;
+    height: 36px;
+    background-position: -5px -189px;
+}
+
+.sprite-flag-of-Czech-Republic {
+    width: 61px;
+    height: 36px;
+    background-position: -76px -189px;
+}
+
+.sprite-flag-of-Denmark {
+    width: 61px;
+    height: 36px;
+    background-position: -147px -189px;
+}
+
+.sprite-flag-of-Djibouti {
+    width: 61px;
+    height: 36px;
+    background-position: -218px -189px;
+}
+
+.sprite-flag-of-Dominica {
+    width: 61px;
+    height: 36px;
+    background-position: -289px -189px;
+}
+
+.sprite-flag-of-Dominican-Republic {
+    width: 61px;
+    height: 36px;
+    background-position: -360px -189px;
+}
+
+.sprite-flag-of-Ecuador {
+    width: 61px;
+    height: 36px;
+    background-position: -431px -189px;
+}
+
+.sprite-flag-of-Egypt {
+    width: 61px;
+    height: 36px;
+    background-position: -502px -189px;
+}
+
+.sprite-flag-of-El-Salvador {
+    width: 61px;
+    height: 36px;
+    background-position: -573px -189px;
+}
+
+.sprite-flag-of-Equatorial-Guinea {
+    width: 61px;
+    height: 36px;
+    background-position: -644px -189px;
+}
+
+.sprite-flag-of-Eritrea {
+    width: 61px;
+    height: 36px;
+    background-position: -715px -189px;
+}
+
+.sprite-flag-of-Estonia {
+    width: 61px;
+    height: 36px;
+    background-position: -5px -235px;
+}
+
+.sprite-flag-of-Ethiopia {
+    width: 61px;
+    height: 36px;
+    background-position: -76px -235px;
+}
+
+.sprite-flag-of-Fiji {
+    width: 61px;
+    height: 36px;
+    background-position: -147px -235px;
+}
+
+.sprite-flag-of-Finland {
+    width: 61px;
+    height: 36px;
+    background-position: -218px -235px;
+}
+
+.sprite-flag-of-France {
+    width: 61px;
+    height: 36px;
+    background-position: -289px -235px;
+}
+
+.sprite-flag-of-Gabon {
+    width: 61px;
+    height: 36px;
+    background-position: -360px -235px;
+}
+
+.sprite-flag-of-Gambia {
+    width: 61px;
+    height: 36px;
+    background-position: -431px -235px;
+}
+
+.sprite-flag-of-Georgia {
+    width: 61px;
+    height: 36px;
+    background-position: -502px -235px;
+}
+
+.sprite-flag-of-Germany {
+    width: 61px;
+    height: 36px;
+    background-position: -573px -235px;
+}
+
+.sprite-flag-of-Ghana {
+    width: 61px;
+    height: 36px;
+    background-position: -644px -235px;
+}
+
+.sprite-flag-of-Greece {
+    width: 61px;
+    height: 36px;
+    background-position: -715px -235px;
+}
+
+.sprite-flag-of-Grenada {
+    width: 61px;
+    height: 36px;
+    background-position: -5px -281px;
+}
+
+.sprite-flag-of-Guatemala {
+    width: 61px;
+    height: 36px;
+    background-position: -76px -281px;
+}
+
+.sprite-flag-of-Guinea {
+    width: 61px;
+    height: 36px;
+    background-position: -147px -281px;
+}
+
+.sprite-flag-of-Guinea-Bissau {
+    width: 61px;
+    height: 36px;
+    background-position: -218px -281px;
+}
+
+.sprite-flag-of-Guyana {
+    width: 61px;
+    height: 36px;
+    background-position: -289px -281px;
+}
+
+.sprite-flag-of-Haiti {
+    width: 61px;
+    height: 36px;
+    background-position: -360px -281px;
+}
+
+.sprite-flag-of-Honduras {
+    width: 61px;
+    height: 36px;
+    background-position: -431px -281px;
+}
+
+.sprite-flag-of-Hungary {
+    width: 61px;
+    height: 36px;
+    background-position: -502px -281px;
+}
+
+.sprite-flag-of-Iceland {
+    width: 61px;
+    height: 36px;
+    background-position: -573px -281px;
+}
+
+.sprite-flag-of-India {
+    width: 61px;
+    height: 36px;
+    background-position: -644px -281px;
+}
+
+.sprite-flag-of-Indonesia {
+    width: 61px;
+    height: 36px;
+    background-position: -715px -281px;
+}
+
+.sprite-flag-of-Iran {
+    width: 61px;
+    height: 36px;
+    background-position: -5px -327px;
+}
+
+.sprite-flag-of-Iraq {
+    width: 61px;
+    height: 36px;
+    background-position: -76px -327px;
+}
+
+.sprite-flag-of-Ireland {
+    width: 61px;
+    height: 36px;
+    background-position: -147px -327px;
+}
+
+.sprite-flag-of-Israel {
+    width: 61px;
+    height: 36px;
+    background-position: -218px -327px;
+}
+
+.sprite-flag-of-Italy {
+    width: 61px;
+    height: 36px;
+    background-position: -289px -327px;
+}
+
+.sprite-flag-of-Jamaica {
+    width: 61px;
+    height: 36px;
+    background-position: -360px -327px;
+}
+
+.sprite-flag-of-Japan {
+    width: 61px;
+    height: 36px;
+    background-position: -431px -327px;
+}
+
+.sprite-flag-of-Jordan {
+    width: 61px;
+    height: 36px;
+    background-position: -502px -327px;
+}
+
+.sprite-flag-of-Kazakhstan {
+    width: 61px;
+    height: 36px;
+    background-position: -573px -327px;
+}
+
+.sprite-flag-of-Kenya {
+    width: 61px;
+    height: 36px;
+    background-position: -644px -327px;
+}
+
+.sprite-flag-of-Kiribati {
+    width: 61px;
+    height: 36px;
+    background-position: -715px -327px;
+}
+
+.sprite-flag-of-Korea-North {
+    width: 61px;
+    height: 36px;
+    background-position: -5px -373px;
+}
+
+.sprite-flag-of-Korea-South {
+    width: 61px;
+    height: 36px;
+    background-position: -76px -373px;
+}
+
+.sprite-flag-of-Kosovo {
+    width: 61px;
+    height: 36px;
+    background-position: -147px -373px;
+}
+
+.sprite-flag-of-Kuwait {
+    width: 61px;
+    height: 36px;
+    background-position: -218px -373px;
+}
+
+.sprite-flag-of-Kyrgyzstan {
+    width: 61px;
+    height: 36px;
+    background-position: -289px -373px;
+}
+
+.sprite-flag-of-Laos {
+    width: 61px;
+    height: 36px;
+    background-position: -360px -373px;
+}
+
+.sprite-flag-of-Latvia {
+    width: 61px;
+    height: 36px;
+    background-position: -431px -373px;
+}
+
+.sprite-flag-of-Lebanon {
+    width: 61px;
+    height: 36px;
+    background-position: -502px -373px;
+}
+
+.sprite-flag-of-Lesotho {
+    width: 61px;
+    height: 36px;
+    background-position: -573px -373px;
+}
+
+.sprite-flag-of-Liberia {
+    width: 61px;
+    height: 36px;
+    background-position: -644px -373px;
+}
+
+.sprite-flag-of-Libya {
+    width: 61px;
+    height: 36px;
+    background-position: -715px -373px;
+}
+
+.sprite-flag-of-Liechtenstein {
+    width: 61px;
+    height: 36px;
+    background-position: -5px -419px;
+}
+
+.sprite-flag-of-Lithuania {
+    width: 61px;
+    height: 36px;
+    background-position: -76px -419px;
+}
+
+.sprite-flag-of-Luxembourg {
+    width: 61px;
+    height: 36px;
+    background-position: -147px -419px;
+}
+
+.sprite-flag-of-Macedonia {
+    width: 61px;
+    height: 36px;
+    background-position: -218px -419px;
+}
+
+.sprite-flag-of-Madagascar {
+    width: 61px;
+    height: 36px;
+    background-position: -289px -419px;
+}
+
+.sprite-flag-of-Malawi {
+    width: 61px;
+    height: 36px;
+    background-position: -360px -419px;
+}
+
+.sprite-flag-of-Malaysia {
+    width: 61px;
+    height: 36px;
+    background-position: -431px -419px;
+}
+
+.sprite-flag-of-Maldives {
+    width: 61px;
+    height: 36px;
+    background-position: -502px -419px;
+}
+
+.sprite-flag-of-Mali {
+    width: 61px;
+    height: 36px;
+    background-position: -573px -419px;
+}
+
+.sprite-flag-of-Malta {
+    width: 61px;
+    height: 36px;
+    background-position: -644px -419px;
+}
+
+.sprite-flag-of-Marshall-Islands {
+    width: 61px;
+    height: 36px;
+    background-position: -715px -419px;
+}
+
+.sprite-flag-of-Mauritania {
+    width: 61px;
+    height: 36px;
+    background-position: -5px -465px;
+}
+
+.sprite-flag-of-Mauritius {
+    width: 61px;
+    height: 36px;
+    background-position: -76px -465px;
+}
+
+.sprite-flag-of-Mexico {
+    width: 61px;
+    height: 36px;
+    background-position: -147px -465px;
+}
+
+.sprite-flag-of-Micronesia {
+    width: 61px;
+    height: 36px;
+    background-position: -218px -465px;
+}
+
+.sprite-flag-of-Moldova {
+    width: 61px;
+    height: 36px;
+    background-position: -289px -465px;
+}
+
+.sprite-flag-of-Monaco {
+    width: 61px;
+    height: 36px;
+    background-position: -360px -465px;
+}
+
+.sprite-flag-of-Mongolia {
+    width: 61px;
+    height: 36px;
+    background-position: -431px -465px;
+}
+
+.sprite-flag-of-Montenegro {
+    width: 61px;
+    height: 36px;
+    background-position: -502px -465px;
+}
+
+.sprite-flag-of-Morocco {
+    width: 61px;
+    height: 36px;
+    background-position: -573px -465px;
+}
+
+.sprite-flag-of-Mozambique {
+    width: 61px;
+    height: 36px;
+    background-position: -644px -465px;
+}
+
+.sprite-flag-of-Myanmar {
+    width: 61px;
+    height: 36px;
+    background-position: -715px -465px;
+}
+
+.sprite-flag-of-Namibia {
+    width: 61px;
+    height: 36px;
+    background-position: -5px -511px;
+}
+
+.sprite-flag-of-Nauru {
+    width: 61px;
+    height: 36px;
+    background-position: -76px -511px;
+}
+
+.sprite-flag-of-Nepal {
+    width: 61px;
+    height: 36px;
+    background-position: -147px -511px;
+}
+
+.sprite-flag-of-Netherlands {
+    width: 61px;
+    height: 36px;
+    background-position: -218px -511px;
+}
+
+.sprite-flag-of-New-Zealand {
+    width: 61px;
+    height: 36px;
+    background-position: -289px -511px;
+}
+
+.sprite-flag-of-Nicaragua {
+    width: 61px;
+    height: 36px;
+    background-position: -360px -511px;
+}
+
+.sprite-flag-of-Niger {
+    width: 61px;
+    height: 36px;
+    background-position: -431px -511px;
+}
+
+.sprite-flag-of-Nigeria {
+    width: 61px;
+    height: 36px;
+    background-position: -502px -511px;
+}
+
+.sprite-flag-of-Norway {
+    width: 61px;
+    height: 36px;
+    background-position: -573px -511px;
+}
+
+.sprite-flag-of-Oman {
+    width: 61px;
+    height: 36px;
+    background-position: -644px -511px;
+}
+
+.sprite-flag-of-Pakistan {
+    width: 61px;
+    height: 36px;
+    background-position: -715px -511px;
+}
+
+.sprite-flag-of-Palau {
+    width: 61px;
+    height: 36px;
+    background-position: -5px -557px;
+}
+
+.sprite-flag-of-Palestine {
+    width: 61px;
+    height: 36px;
+    background-position: -76px -557px;
+}
+
+.sprite-flag-of-Panama {
+    width: 61px;
+    height: 36px;
+    background-position: -147px -557px;
+}
+
+.sprite-flag-of-Papua-New-Guinea {
+    width: 61px;
+    height: 36px;
+    background-position: -218px -557px;
+}
+
+.sprite-flag-of-Paraguay {
+    width: 61px;
+    height: 36px;
+    background-position: -289px -557px;
+}
+
+.sprite-flag-of-Peru {
+    width: 61px;
+    height: 36px;
+    background-position: -360px -557px;
+}
+
+.sprite-flag-of-Philippines {
+    width: 61px;
+    height: 36px;
+    background-position: -431px -557px;
+}
+
+.sprite-flag-of-Poland {
+    width: 61px;
+    height: 36px;
+    background-position: -502px -557px;
+}
+
+.sprite-flag-of-Portugal {
+    width: 61px;
+    height: 36px;
+    background-position: -573px -557px;
+}
+
+.sprite-flag-of-Qatar {
+    width: 61px;
+    height: 36px;
+    background-position: -644px -557px;
+}
+
+.sprite-flag-of-Romania {
+    width: 61px;
+    height: 36px;
+    background-position: -715px -557px;
+}
+
+.sprite-flag-of-Russia {
+    width: 61px;
+    height: 36px;
+    background-position: -5px -603px;
+}
+
+.sprite-flag-of-Rwanda {
+    width: 61px;
+    height: 36px;
+    background-position: -76px -603px;
+}
+
+.sprite-flag-of-Samoa {
+    width: 61px;
+    height: 36px;
+    background-position: -147px -603px;
+}
+
+.sprite-flag-of-San-Marino {
+    width: 61px;
+    height: 36px;
+    background-position: -218px -603px;
+}
+
+.sprite-flag-of-Sao-Tome-and-Principe {
+    width: 61px;
+    height: 36px;
+    background-position: -289px -603px;
+}
+
+.sprite-flag-of-Saudi-Arabia {
+    width: 61px;
+    height: 36px;
+    background-position: -360px -603px;
+}
+
+.sprite-flag-of-Senegal {
+    width: 61px;
+    height: 36px;
+    background-position: -431px -603px;
+}
+
+.sprite-flag-of-Serbia {
+    width: 61px;
+    height: 36px;
+    background-position: -502px -603px;
+}
+
+.sprite-flag-of-Seychelles {
+    width: 61px;
+    height: 36px;
+    background-position: -573px -603px;
+}
+
+.sprite-flag-of-Sierra-Leone {
+    width: 61px;
+    height: 36px;
+    background-position: -644px -603px;
+}
+
+.sprite-flag-of-Singapore {
+    width: 61px;
+    height: 36px;
+    background-position: -715px -603px;
+}
+
+.sprite-flag-of-Slovakia {
+    width: 61px;
+    height: 36px;
+    background-position: -5px -649px;
+}
+
+.sprite-flag-of-Slovenia {
+    width: 61px;
+    height: 36px;
+    background-position: -76px -649px;
+}
+
+.sprite-flag-of-Solomon-Islands {
+    width: 61px;
+    height: 36px;
+    background-position: -147px -649px;
+}
+
+.sprite-flag-of-Somalia {
+    width: 61px;
+    height: 36px;
+    background-position: -218px -649px;
+}
+
+.sprite-flag-of-South-Africa {
+    width: 61px;
+    height: 36px;
+    background-position: -289px -649px;
+}
+
+.sprite-flag-of-South-Sudan {
+    width: 61px;
+    height: 36px;
+    background-position: -360px -649px;
+}
+
+.sprite-flag-of-Spain {
+    width: 61px;
+    height: 36px;
+    background-position: -431px -649px;
+}
+
+.sprite-flag-of-Sri-Lanka {
+    width: 61px;
+    height: 36px;
+    background-position: -502px -649px;
+}
+
+.sprite-flag-of-St-Kitts-Nevis {
+    width: 61px;
+    height: 36px;
+    background-position: -573px -649px;
+}
+
+.sprite-flag-of-St-Lucia {
+    width: 61px;
+    height: 36px;
+    background-position: -644px -649px;
+}
+
+.sprite-flag-of-St-Vincent-the-Grenadines {
+    width: 61px;
+    height: 36px;
+    background-position: -715px -649px;
+}
+
+.sprite-flag-of-Sudan {
+    width: 61px;
+    height: 36px;
+    background-position: -5px -695px;
+}
+
+.sprite-flag-of-Suriname {
+    width: 61px;
+    height: 36px;
+    background-position: -76px -695px;
+}
+
+.sprite-flag-of-Swaziland {
+    width: 61px;
+    height: 36px;
+    background-position: -147px -695px;
+}
+
+.sprite-flag-of-Sweden {
+    width: 61px;
+    height: 36px;
+    background-position: -218px -695px;
+}
+
+.sprite-flag-of-Switzerland {
+    width: 61px;
+    height: 36px;
+    background-position: -289px -695px;
+}
+
+.sprite-flag-of-Syria {
+    width: 61px;
+    height: 36px;
+    background-position: -360px -695px;
+}
+
+.sprite-flag-of-Taiwan {
+    width: 61px;
+    height: 36px;
+    background-position: -431px -695px;
+}
+
+.sprite-flag-of-Tajikistan {
+    width: 61px;
+    height: 36px;
+    background-position: -502px -695px;
+}
+
+.sprite-flag-of-Tanzania {
+    width: 61px;
+    height: 36px;
+    background-position: -573px -695px;
+}
+
+.sprite-flag-of-Thailand {
+    width: 61px;
+    height: 36px;
+    background-position: -644px -695px;
+}
+
+.sprite-flag-of-Timor-Leste {
+    width: 61px;
+    height: 36px;
+    background-position: -715px -695px;
+}
+
+.sprite-flag-of-Togo {
+    width: 61px;
+    height: 36px;
+    background-position: -5px -741px;
+}
+
+.sprite-flag-of-Tonga {
+    width: 61px;
+    height: 36px;
+    background-position: -76px -741px;
+}
+
+.sprite-flag-of-Trinidad-and-Tobago {
+    width: 61px;
+    height: 36px;
+    background-position: -147px -741px;
+}
+
+.sprite-flag-of-Tunisia {
+    width: 61px;
+    height: 36px;
+    background-position: -218px -741px;
+}
+
+.sprite-flag-of-Turkey {
+    width: 61px;
+    height: 36px;
+    background-position: -289px -741px;
+}
+
+.sprite-flag-of-Turkmenistan {
+    width: 61px;
+    height: 36px;
+    background-position: -360px -741px;
+}
+
+.sprite-flag-of-Tuvalu {
+    width: 61px;
+    height: 36px;
+    background-position: -431px -741px;
+}
+
+.sprite-flag-of-Uganda {
+    width: 61px;
+    height: 36px;
+    background-position: -502px -741px;
+}
+
+.sprite-flag-of-Ukraine {
+    width: 61px;
+    height: 36px;
+    background-position: -573px -741px;
+}
+
+.sprite-flag-of-United-Arab-Emirates {
+    width: 61px;
+    height: 36px;
+    background-position: -644px -741px;
+}
+
+.sprite-flag-of-United-Kingdom {
+    width: 61px;
+    height: 36px;
+    background-position: -715px -741px;
+}
+
+.sprite-flag-of-United-States-of-America {
+    width: 61px;
+    height: 36px;
+    background-position: -786px -5px;
+}
+
+.sprite-flag-of-Uruguay {
+    width: 61px;
+    height: 36px;
+    background-position: -786px -51px;
+}
+
+.sprite-flag-of-Uzbekistan {
+    width: 61px;
+    height: 36px;
+    background-position: -786px -97px;
+}
+
+.sprite-flag-of-Vanuatu {
+    width: 61px;
+    height: 36px;
+    background-position: -786px -143px;
+}
+
+.sprite-flag-of-Vatican-City {
+    width: 61px;
+    height: 36px;
+    background-position: -786px -189px;
+}
+
+.sprite-flag-of-Venezuela {
+    width: 61px;
+    height: 36px;
+    background-position: -786px -235px;
+}
+
+.sprite-flag-of-Vietnam {
+    width: 49px;
+    height: 29px;
+    background-position: -786px -281px;
+}
+
+.sprite-flag-of-Yemen {
+    width: 61px;
+    height: 36px;
+    background-position: -786px -320px;
+}
+
+.sprite-flag-of-Zambia {
+    width: 61px;
+    height: 36px;
+    background-position: -786px -366px;
+}
+
+.sprite-flag-of-Zimbabwe {
+    width: 61px;
+    height: 36px;
+    background-position: -786px -412px;
+}
